@@ -1,0 +1,18 @@
+{"time":"2024-10-10T16:31:25.447813738+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-10T16:31:25.447856179+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241010_163125-uj2tatbo/logs/debug-core.log"}
+{"time":"2024-10-10T16:31:25.45271366+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-10T16:31:25.463221389+05:30","level":"INFO","msg":"created new stream","id":"uj2tatbo"}
+{"time":"2024-10-10T16:31:25.463301837+05:30","level":"INFO","msg":"stream: started","id":"uj2tatbo"}
+{"time":"2024-10-10T16:31:25.463316131+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"uj2tatbo"}}
+{"time":"2024-10-10T16:31:25.463338293+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"uj2tatbo"}}
+{"time":"2024-10-10T16:31:25.463353621+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"uj2tatbo"}}
+{"time":"2024-10-10T16:31:26.012106596+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-10T16:31:26.013354619+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-10T16:31:30.543366968+05:30","level":"INFO","msg":"stream: closing","id":"uj2tatbo"}
+{"time":"2024-10-10T16:31:30.543523538+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-10T16:31:30.544722474+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-10T16:31:32.442637771+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-10T16:31:33.108726645+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"uj2tatbo"}}
+{"time":"2024-10-10T16:31:33.108786977+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"uj2tatbo"}}
+{"time":"2024-10-10T16:31:33.108815419+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"uj2tatbo"}}
+{"time":"2024-10-10T16:31:33.108953293+05:30","level":"INFO","msg":"stream: closed","id":"uj2tatbo"}

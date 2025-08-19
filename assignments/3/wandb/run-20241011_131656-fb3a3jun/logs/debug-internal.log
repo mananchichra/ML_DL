@@ -1,0 +1,13 @@
+{"time":"2024-10-11T13:16:56.967081287+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T13:16:56.967174105+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_131656-fb3a3jun/logs/debug-core.log"}
+{"time":"2024-10-11T13:16:56.979182569+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T13:16:56.990933644+05:30","level":"INFO","msg":"created new stream","id":"fb3a3jun"}
+{"time":"2024-10-11T13:16:56.991010408+05:30","level":"INFO","msg":"stream: started","id":"fb3a3jun"}
+{"time":"2024-10-11T13:16:56.991084099+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"fb3a3jun"}}
+{"time":"2024-10-11T13:16:56.991209673+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"fb3a3jun"}}
+{"time":"2024-10-11T13:16:56.991120471+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"fb3a3jun"}}
+{"time":"2024-10-11T13:16:57.446896846+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T13:16:57.448721221+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T13:16:58.060384021+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T13:16:58.060792147+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T13:16:59.376244246+05:30","level":"INFO","msg":"stream: closing","id":"fb3a3jun"}

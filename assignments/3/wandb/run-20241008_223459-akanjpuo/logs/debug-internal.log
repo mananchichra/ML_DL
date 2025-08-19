@@ -1,0 +1,18 @@
+{"time":"2024-10-08T22:34:59.628938907+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-08T22:34:59.628981016+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241008_223459-akanjpuo/logs/debug-core.log"}
+{"time":"2024-10-08T22:34:59.640593412+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-08T22:34:59.646810728+05:30","level":"INFO","msg":"created new stream","id":"akanjpuo"}
+{"time":"2024-10-08T22:34:59.646850561+05:30","level":"INFO","msg":"stream: started","id":"akanjpuo"}
+{"time":"2024-10-08T22:34:59.646872108+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"akanjpuo"}}
+{"time":"2024-10-08T22:34:59.646862002+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"akanjpuo"}}
+{"time":"2024-10-08T22:34:59.646895662+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"akanjpuo"}}
+{"time":"2024-10-08T22:35:00.414719029+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-08T22:35:00.415113434+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-08T22:35:03.925526683+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-08T22:35:03.925643101+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-08T22:35:05.920132483+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-08T22:35:07.695846607+05:30","level":"INFO","msg":"stream: closing","id":"akanjpuo"}
+{"time":"2024-10-08T22:35:07.695872265+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"akanjpuo"}}
+{"time":"2024-10-08T22:35:07.695904349+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"akanjpuo"}}
+{"time":"2024-10-08T22:35:07.696036979+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"akanjpuo"}}
+{"time":"2024-10-08T22:35:07.696060094+05:30","level":"INFO","msg":"stream: closed","id":"akanjpuo"}

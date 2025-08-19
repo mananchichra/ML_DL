@@ -1,0 +1,13 @@
+{"time":"2024-10-11T13:17:07.52927288+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T13:17:07.529298994+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_131707-4musmo8l/logs/debug-core.log"}
+{"time":"2024-10-11T13:17:07.536891436+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T13:17:07.543297253+05:30","level":"INFO","msg":"created new stream","id":"4musmo8l"}
+{"time":"2024-10-11T13:17:07.54335444+05:30","level":"INFO","msg":"stream: started","id":"4musmo8l"}
+{"time":"2024-10-11T13:17:07.54339337+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"4musmo8l"}}
+{"time":"2024-10-11T13:17:07.543445791+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"4musmo8l"}}
+{"time":"2024-10-11T13:17:07.543439596+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"4musmo8l"}}
+{"time":"2024-10-11T13:17:08.012289775+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T13:17:08.013194207+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T13:17:37.57837145+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T13:17:37.5788856+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T13:17:37.972002033+05:30","level":"INFO","msg":"stream: closing","id":"4musmo8l"}

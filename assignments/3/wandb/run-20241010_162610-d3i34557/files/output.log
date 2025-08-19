@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "q2_6.py", line 182, in <module>
+    mlp.fit(X_train.values, y_train)
+  File "/home/mananchichra/Downloads/SMAI_ASSIGNMENT/models/MLP/MLPMC.py", line 263, in fit
+    output = self.forward(X_batch)
+  File "/home/mananchichra/Downloads/SMAI_ASSIGNMENT/models/MLP/MLPMC.py", line 211, in forward
+    activation_func = self.get_activation(self.activations[i])
+IndexError: list index out of range

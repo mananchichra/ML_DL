@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:35:28.868418624+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:35:28.868441919+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_123528-dprs2858/logs/debug-core.log"}
+{"time":"2024-10-11T12:35:28.877331609+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:35:28.885526801+05:30","level":"INFO","msg":"created new stream","id":"dprs2858"}
+{"time":"2024-10-11T12:35:28.885593355+05:30","level":"INFO","msg":"stream: started","id":"dprs2858"}
+{"time":"2024-10-11T12:35:28.885655915+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"dprs2858"}}
+{"time":"2024-10-11T12:35:28.885657276+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"dprs2858"}}
+{"time":"2024-10-11T12:35:28.885666534+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"dprs2858"}}
+{"time":"2024-10-11T12:35:29.273236005+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:35:29.274134634+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:35:40.451183087+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:35:40.451340902+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:35:41.589535178+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:35:43.019522559+05:30","level":"INFO","msg":"stream: closing","id":"dprs2858"}
+{"time":"2024-10-11T12:35:43.019556549+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"dprs2858"}}
+{"time":"2024-10-11T12:35:43.01958378+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"dprs2858"}}
+{"time":"2024-10-11T12:35:43.019644914+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"dprs2858"}}
+{"time":"2024-10-11T12:35:43.019705492+05:30","level":"INFO","msg":"stream: closed","id":"dprs2858"}

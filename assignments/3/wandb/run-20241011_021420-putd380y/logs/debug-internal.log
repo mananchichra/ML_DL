@@ -1,0 +1,18 @@
+{"time":"2024-10-11T02:14:20.534447603+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T02:14:20.534479809+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_021420-putd380y/logs/debug-core.log"}
+{"time":"2024-10-11T02:14:20.542213635+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T02:14:20.549777998+05:30","level":"INFO","msg":"created new stream","id":"putd380y"}
+{"time":"2024-10-11T02:14:20.549814198+05:30","level":"INFO","msg":"stream: started","id":"putd380y"}
+{"time":"2024-10-11T02:14:20.549853338+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"putd380y"}}
+{"time":"2024-10-11T02:14:20.549920878+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"putd380y"}}
+{"time":"2024-10-11T02:14:20.549918556+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"putd380y"}}
+{"time":"2024-10-11T02:14:21.12523171+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T02:14:21.126422455+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T02:14:27.940199718+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T02:14:27.94042087+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T02:14:29.865510704+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T02:14:31.242333968+05:30","level":"INFO","msg":"stream: closing","id":"putd380y"}
+{"time":"2024-10-11T02:14:31.242366257+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"putd380y"}}
+{"time":"2024-10-11T02:14:31.242392335+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"putd380y"}}
+{"time":"2024-10-11T02:14:31.242494979+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"putd380y"}}
+{"time":"2024-10-11T02:14:31.242511489+05:30","level":"INFO","msg":"stream: closed","id":"putd380y"}

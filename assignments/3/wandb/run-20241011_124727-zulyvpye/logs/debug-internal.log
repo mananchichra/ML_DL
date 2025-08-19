@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:47:27.951769215+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:47:27.951797883+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_124727-zulyvpye/logs/debug-core.log"}
+{"time":"2024-10-11T12:47:28.047171073+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:47:28.054578817+05:30","level":"INFO","msg":"created new stream","id":"zulyvpye"}
+{"time":"2024-10-11T12:47:28.054618667+05:30","level":"INFO","msg":"stream: started","id":"zulyvpye"}
+{"time":"2024-10-11T12:47:28.05464217+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"zulyvpye"}}
+{"time":"2024-10-11T12:47:28.054647286+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"zulyvpye"}}
+{"time":"2024-10-11T12:47:28.054687184+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"zulyvpye"}}
+{"time":"2024-10-11T12:47:28.488272661+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:47:28.490493546+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:47:40.138316184+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:47:40.138544218+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:47:41.623310405+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:47:43.008112256+05:30","level":"INFO","msg":"stream: closing","id":"zulyvpye"}
+{"time":"2024-10-11T12:47:43.008153345+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"zulyvpye"}}
+{"time":"2024-10-11T12:47:43.008201707+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"zulyvpye"}}
+{"time":"2024-10-11T12:47:43.008218091+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"zulyvpye"}}
+{"time":"2024-10-11T12:47:43.008344509+05:30","level":"INFO","msg":"stream: closed","id":"zulyvpye"}

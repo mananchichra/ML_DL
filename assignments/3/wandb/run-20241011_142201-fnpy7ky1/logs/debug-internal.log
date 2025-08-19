@@ -1,0 +1,18 @@
+{"time":"2024-10-11T14:22:01.668323609+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T14:22:01.668346191+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_142201-fnpy7ky1/logs/debug-core.log"}
+{"time":"2024-10-11T14:22:01.675736641+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T14:22:01.682454251+05:30","level":"INFO","msg":"created new stream","id":"fnpy7ky1"}
+{"time":"2024-10-11T14:22:01.682493413+05:30","level":"INFO","msg":"stream: started","id":"fnpy7ky1"}
+{"time":"2024-10-11T14:22:01.68253853+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"fnpy7ky1"}}
+{"time":"2024-10-11T14:22:01.682573826+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"fnpy7ky1"}}
+{"time":"2024-10-11T14:22:01.682580586+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"fnpy7ky1"}}
+{"time":"2024-10-11T14:22:02.164608733+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T14:22:02.165800602+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T14:22:38.456910736+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T14:22:38.457169413+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T14:22:43.027989939+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T14:22:44.429584263+05:30","level":"INFO","msg":"stream: closing","id":"fnpy7ky1"}
+{"time":"2024-10-11T14:22:44.429621606+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"fnpy7ky1"}}
+{"time":"2024-10-11T14:22:44.429665391+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"fnpy7ky1"}}
+{"time":"2024-10-11T14:22:44.429699064+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"fnpy7ky1"}}
+{"time":"2024-10-11T14:22:44.429763994+05:30","level":"INFO","msg":"stream: closed","id":"fnpy7ky1"}

@@ -1,0 +1,15 @@
+{"time":"2024-10-11T12:58:20.752184362+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:58:20.752233118+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_125820-tufvogzq/logs/debug-core.log"}
+{"time":"2024-10-11T12:58:20.762646553+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:58:20.773847132+05:30","level":"INFO","msg":"created new stream","id":"tufvogzq"}
+{"time":"2024-10-11T12:58:20.773925335+05:30","level":"INFO","msg":"stream: started","id":"tufvogzq"}
+{"time":"2024-10-11T12:58:20.774080223+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"tufvogzq"}}
+{"time":"2024-10-11T12:58:20.77398095+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"tufvogzq"}}
+{"time":"2024-10-11T12:58:20.774106386+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"tufvogzq"}}
+{"time":"2024-10-11T12:58:21.197677256+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:58:21.198545612+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:58:31.568655018+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:58:31.568998604+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:58:31.941134642+05:30","level":"INFO","msg":"stream: closing","id":"tufvogzq"}
+{"time":"2024-10-11T12:58:32.741110742+05:30","level":"ERROR","msg":"sender: received Exit record more than once, ignoring"}
+{"time":"2024-10-11T12:58:32.792758477+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}

@@ -1,0 +1,18 @@
+{"time":"2024-10-09T23:19:19.684215713+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-09T23:19:19.68424537+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241009_231919-bdl99zbn/logs/debug-core.log"}
+{"time":"2024-10-09T23:19:19.694606872+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-09T23:19:19.704081807+05:30","level":"INFO","msg":"created new stream","id":"bdl99zbn"}
+{"time":"2024-10-09T23:19:19.70414198+05:30","level":"INFO","msg":"stream: started","id":"bdl99zbn"}
+{"time":"2024-10-09T23:19:19.704199752+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"bdl99zbn"}}
+{"time":"2024-10-09T23:19:19.704245483+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"bdl99zbn"}}
+{"time":"2024-10-09T23:19:19.704203121+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"bdl99zbn"}}
+{"time":"2024-10-09T23:19:20.148413331+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-09T23:19:20.152300967+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-09T23:20:01.380407304+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-09T23:20:01.38063792+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-09T23:20:02.861513044+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-09T23:20:04.516793214+05:30","level":"INFO","msg":"stream: closing","id":"bdl99zbn"}
+{"time":"2024-10-09T23:20:04.516841554+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"bdl99zbn"}}
+{"time":"2024-10-09T23:20:04.516872489+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"bdl99zbn"}}
+{"time":"2024-10-09T23:20:04.516995617+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"bdl99zbn"}}
+{"time":"2024-10-09T23:20:04.517059237+05:30","level":"INFO","msg":"stream: closed","id":"bdl99zbn"}

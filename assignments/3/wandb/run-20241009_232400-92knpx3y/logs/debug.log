@@ -1,0 +1,31 @@
+2024-10-09 23:24:00,714 INFO    Thread-21 :157283 [wandb_setup.py:_flush():79] Current SDK version is 0.18.2
+2024-10-09 23:24:00,714 INFO    Thread-21 :157283 [wandb_setup.py:_flush():79] Configure stats pid to 157283
+2024-10-09 23:24:00,714 INFO    Thread-21 :157283 [wandb_setup.py:_flush():79] Loading settings from /home/mananchichra/.config/wandb/settings
+2024-10-09 23:24:00,714 INFO    Thread-21 :157283 [wandb_setup.py:_flush():79] Loading settings from /home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/settings
+2024-10-09 23:24:00,714 INFO    Thread-21 :157283 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'wine-quality', 'entity': 'manan-chichra-iiit-hyderabad', 'root_dir': '/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3', 'run_id': '92knpx3y', 'sweep_param_path': '/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/sweep-sih0fye7/config-92knpx3y.yaml', 'sweep_id': 'sih0fye7'}
+2024-10-09 23:24:00,714 INFO    Thread-21 :157283 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-09 23:24:00,714 INFO    Thread-21 :157283 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'assignments/3/q2.py', 'program_abspath': '/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/q2.py', 'program': 'q2.py'}
+2024-10-09 23:24:00,715 INFO    Thread-21 :157283 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-09 23:24:00,715 INFO    Thread-21 :157283 [wandb_init.py:_log_setup():532] Logging user logs to /home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241009_232400-92knpx3y/logs/debug.log
+2024-10-09 23:24:00,715 INFO    Thread-21 :157283 [wandb_init.py:_log_setup():533] Logging internal logs to /home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241009_232400-92knpx3y/logs/debug-internal.log
+2024-10-09 23:24:00,715 INFO    Thread-21 :157283 [wandb_init.py:init():616] calling init triggers
+2024-10-09 23:24:00,715 INFO    Thread-21 :157283 [wandb_init.py:init():623] wandb.init called with sweep_config: {'activation': 'tanh', 'epochs': 1000, 'hidden_layer_1': 64, 'hidden_layer_2': 16, 'learning_rate': 0.1, 'optimizer': 'sgd'}
+config: {}
+2024-10-09 23:24:00,715 INFO    Thread-21 :157283 [wandb_init.py:init():666] starting backend
+2024-10-09 23:24:00,715 INFO    Thread-21 :157283 [wandb_init.py:init():670] sending inform_init request
+2024-10-09 23:24:00,724 INFO    Thread-21 :157283 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-09 23:24:00,725 INFO    Thread-21 :157283 [wandb_init.py:init():683] backend started and connected
+2024-10-09 23:24:00,739 INFO    Thread-21 :157283 [wandb_run.py:_config_callback():1393] config_cb None None {'activation': 'tanh', 'epochs': 1000, 'hidden_layer_1': 64, 'hidden_layer_2': 16, 'learning_rate': 0.1, 'optimizer': 'sgd'}
+2024-10-09 23:24:00,743 INFO    Thread-21 :157283 [wandb_init.py:init():778] updated telemetry
+2024-10-09 23:24:00,768 INFO    Thread-21 :157283 [wandb_init.py:init():811] communicating run to backend with 90.0 second timeout
+2024-10-09 23:24:01,146 INFO    Thread-21 :157283 [wandb_init.py:init():862] starting run threads in backend
+2024-10-09 23:24:01,405 INFO    Thread-21 :157283 [wandb_run.py:_console_start():2464] atexit reg
+2024-10-09 23:24:01,406 INFO    Thread-21 :157283 [wandb_run.py:_redirect():2312] redirect: wrap_raw
+2024-10-09 23:24:01,406 INFO    Thread-21 :157283 [wandb_run.py:_redirect():2377] Wrapping output streams.
+2024-10-09 23:24:01,406 INFO    Thread-21 :157283 [wandb_run.py:_redirect():2402] Redirects installed.
+2024-10-09 23:24:01,407 INFO    Thread-21 :157283 [wandb_init.py:init():906] run started, returning control to user process
+2024-10-09 23:24:30,404 INFO    Thread-21 :157283 [wandb_run.py:_finish():2163] finishing run manan-chichra-iiit-hyderabad/wine-quality/92knpx3y
+2024-10-09 23:24:30,404 INFO    Thread-21 :157283 [wandb_run.py:_atexit_cleanup():2427] got exitcode: 1
+2024-10-09 23:24:30,405 INFO    Thread-21 :157283 [wandb_run.py:_restore():2409] restore
+2024-10-09 23:24:30,405 INFO    Thread-21 :157283 [wandb_run.py:_restore():2415] restore done
+2024-10-09 23:24:30,620 WARNING MsgRouterThr:157283 [router.py:message_loop():77] message_loop has been closed

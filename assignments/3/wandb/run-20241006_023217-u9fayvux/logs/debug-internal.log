@@ -1,0 +1,18 @@
+{"time":"2024-10-06T02:32:17.793797709+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-06T02:32:17.793830537+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241006_023217-u9fayvux/logs/debug-core.log"}
+{"time":"2024-10-06T02:32:17.802751609+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-06T02:32:17.809767457+05:30","level":"INFO","msg":"created new stream","id":"u9fayvux"}
+{"time":"2024-10-06T02:32:17.80980413+05:30","level":"INFO","msg":"stream: started","id":"u9fayvux"}
+{"time":"2024-10-06T02:32:17.80982532+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"u9fayvux"}}
+{"time":"2024-10-06T02:32:17.809844116+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"u9fayvux"}}
+{"time":"2024-10-06T02:32:17.80987084+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"u9fayvux"}}
+{"time":"2024-10-06T02:32:18.226581957+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-06T02:32:18.227366108+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-06T02:32:23.398122792+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-06T02:32:23.398363795+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-06T02:32:28.005490136+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-06T02:32:29.38057821+05:30","level":"INFO","msg":"stream: closing","id":"u9fayvux"}
+{"time":"2024-10-06T02:32:29.380608221+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"u9fayvux"}}
+{"time":"2024-10-06T02:32:29.380652768+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"u9fayvux"}}
+{"time":"2024-10-06T02:32:29.38068621+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"u9fayvux"}}
+{"time":"2024-10-06T02:32:29.380764883+05:30","level":"INFO","msg":"stream: closed","id":"u9fayvux"}

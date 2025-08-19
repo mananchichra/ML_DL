@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:32:13.868219848+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:32:13.868268389+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_123213-acngyp5a/logs/debug-core.log"}
+{"time":"2024-10-11T12:32:13.883601015+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:32:13.891007129+05:30","level":"INFO","msg":"created new stream","id":"acngyp5a"}
+{"time":"2024-10-11T12:32:13.891054672+05:30","level":"INFO","msg":"stream: started","id":"acngyp5a"}
+{"time":"2024-10-11T12:32:13.891103021+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"acngyp5a"}}
+{"time":"2024-10-11T12:32:13.891108101+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"acngyp5a"}}
+{"time":"2024-10-11T12:32:13.891079384+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"acngyp5a"}}
+{"time":"2024-10-11T12:32:14.277376284+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:32:14.280438798+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:32:17.227966732+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:32:17.228202041+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:32:18.466868747+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:32:19.85163844+05:30","level":"INFO","msg":"stream: closing","id":"acngyp5a"}
+{"time":"2024-10-11T12:32:19.851671289+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"acngyp5a"}}
+{"time":"2024-10-11T12:32:19.851710444+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"acngyp5a"}}
+{"time":"2024-10-11T12:32:19.851818999+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"acngyp5a"}}
+{"time":"2024-10-11T12:32:19.851890289+05:30","level":"INFO","msg":"stream: closed","id":"acngyp5a"}

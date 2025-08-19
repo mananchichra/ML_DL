@@ -1,0 +1,18 @@
+{"time":"2024-10-08T18:50:29.161008873+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-08T18:50:29.161032551+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241008_185029-ayel00kk/logs/debug-core.log"}
+{"time":"2024-10-08T18:50:29.199393167+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-08T18:50:29.205036941+05:30","level":"INFO","msg":"created new stream","id":"ayel00kk"}
+{"time":"2024-10-08T18:50:29.205064677+05:30","level":"INFO","msg":"stream: started","id":"ayel00kk"}
+{"time":"2024-10-08T18:50:29.205094266+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"ayel00kk"}}
+{"time":"2024-10-08T18:50:29.205078322+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ayel00kk"}}
+{"time":"2024-10-08T18:50:29.205105482+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"ayel00kk"}}
+{"time":"2024-10-08T18:50:29.617905886+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-08T18:50:29.61856666+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-08T18:50:32.605529238+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-08T18:50:32.60561519+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-08T18:50:33.80301133+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-08T18:50:35.162817752+05:30","level":"INFO","msg":"stream: closing","id":"ayel00kk"}
+{"time":"2024-10-08T18:50:35.162832072+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"ayel00kk"}}
+{"time":"2024-10-08T18:50:35.162855491+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ayel00kk"}}
+{"time":"2024-10-08T18:50:35.16290692+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"ayel00kk"}}
+{"time":"2024-10-08T18:50:35.162913641+05:30","level":"INFO","msg":"stream: closed","id":"ayel00kk"}

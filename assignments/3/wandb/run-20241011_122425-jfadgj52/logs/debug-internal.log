@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:24:25.214881217+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:24:25.214912241+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_122425-jfadgj52/logs/debug-core.log"}
+{"time":"2024-10-11T12:24:25.223731389+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:24:25.233067375+05:30","level":"INFO","msg":"created new stream","id":"jfadgj52"}
+{"time":"2024-10-11T12:24:25.233104754+05:30","level":"INFO","msg":"stream: started","id":"jfadgj52"}
+{"time":"2024-10-11T12:24:25.23314318+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"jfadgj52"}}
+{"time":"2024-10-11T12:24:25.233196312+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"jfadgj52"}}
+{"time":"2024-10-11T12:24:25.233188765+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"jfadgj52"}}
+{"time":"2024-10-11T12:24:25.740874621+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:24:25.741917886+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:24:27.049398227+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:24:27.050288594+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:24:28.213929293+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:24:29.598357071+05:30","level":"INFO","msg":"stream: closing","id":"jfadgj52"}
+{"time":"2024-10-11T12:24:29.598424831+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"jfadgj52"}}
+{"time":"2024-10-11T12:24:29.598502188+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"jfadgj52"}}
+{"time":"2024-10-11T12:24:29.598482391+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"jfadgj52"}}
+{"time":"2024-10-11T12:24:29.598697914+05:30","level":"INFO","msg":"stream: closed","id":"jfadgj52"}

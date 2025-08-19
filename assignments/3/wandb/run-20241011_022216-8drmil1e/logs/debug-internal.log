@@ -1,0 +1,18 @@
+{"time":"2024-10-11T02:22:16.778491+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T02:22:16.778515966+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_022216-8drmil1e/logs/debug-core.log"}
+{"time":"2024-10-11T02:22:16.785279123+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T02:22:16.790706552+05:30","level":"INFO","msg":"created new stream","id":"8drmil1e"}
+{"time":"2024-10-11T02:22:16.790739827+05:30","level":"INFO","msg":"stream: started","id":"8drmil1e"}
+{"time":"2024-10-11T02:22:16.790775597+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"8drmil1e"}}
+{"time":"2024-10-11T02:22:16.790808453+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"8drmil1e"}}
+{"time":"2024-10-11T02:22:16.790810577+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"8drmil1e"}}
+{"time":"2024-10-11T02:22:17.540606213+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T02:22:17.541737249+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T02:22:21.658577288+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T02:22:21.658835237+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T02:22:24.071322096+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T02:22:25.511155365+05:30","level":"INFO","msg":"stream: closing","id":"8drmil1e"}
+{"time":"2024-10-11T02:22:25.511200758+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"8drmil1e"}}
+{"time":"2024-10-11T02:22:25.511252297+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"8drmil1e"}}
+{"time":"2024-10-11T02:22:25.511285881+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"8drmil1e"}}
+{"time":"2024-10-11T02:22:25.511356997+05:30","level":"INFO","msg":"stream: closed","id":"8drmil1e"}

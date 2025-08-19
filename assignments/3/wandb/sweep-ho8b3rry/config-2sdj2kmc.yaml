@@ -1,0 +1,15 @@
+wandb_version: 1
+
+activation:
+  value: tanh
+batch_size:
+  value: 32
+epochs:
+  value: 750
+hidden_layers:
+  value:
+  - 128
+  - 64
+  - 32
+learning_rate:
+  value: 0.001

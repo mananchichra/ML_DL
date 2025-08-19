@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "q2_6.py", line 182, in <module>
+    mlp.fit(X_train.values, y_train)
+  File "/home/mananchichra/Downloads/SMAI_ASSIGNMENT/models/MLP/MLPMC.py", line 385, in fit
+    self.backward(X_batch, y_batch, output)
+  File "/home/mananchichra/Downloads/SMAI_ASSIGNMENT/models/MLP/MLPMC.py", line 257, in backward
+    self.weights[i] -= self.learning_rate * d_weights[i]
+ValueError: operands could not be broadcast together with shapes (64,32) (8,32) (64,32)

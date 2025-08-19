@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:02:49.656900685+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:02:49.656989899+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_120249-ov2ndmvl/logs/debug-core.log"}
+{"time":"2024-10-11T12:02:49.663582604+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:02:49.675285207+05:30","level":"INFO","msg":"created new stream","id":"ov2ndmvl"}
+{"time":"2024-10-11T12:02:49.675415478+05:30","level":"INFO","msg":"stream: started","id":"ov2ndmvl"}
+{"time":"2024-10-11T12:02:49.675495019+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"ov2ndmvl"}}
+{"time":"2024-10-11T12:02:49.675594304+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ov2ndmvl"}}
+{"time":"2024-10-11T12:02:49.675519502+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"ov2ndmvl"}}
+{"time":"2024-10-11T12:02:50.135152524+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:02:50.138203129+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:02:50.786740931+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:02:50.787361444+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:02:52.559454849+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:02:53.939402243+05:30","level":"INFO","msg":"stream: closing","id":"ov2ndmvl"}
+{"time":"2024-10-11T12:02:53.939442019+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"ov2ndmvl"}}
+{"time":"2024-10-11T12:02:53.939503433+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ov2ndmvl"}}
+{"time":"2024-10-11T12:02:53.939511085+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"ov2ndmvl"}}
+{"time":"2024-10-11T12:02:53.939590171+05:30","level":"INFO","msg":"stream: closed","id":"ov2ndmvl"}

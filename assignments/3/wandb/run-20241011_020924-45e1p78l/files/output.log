@@ -1,0 +1,10 @@
+Epoch 0, Validation Loss: 72.69495011426888
+Epoch 10, Validation Loss: 46.87800989304922
+Epoch 20, Validation Loss: 35.382603004707846
+Epoch 30, Validation Loss: 20.702649846736765
+Epoch 40, Validation Loss: 14.314641669796757
+Epoch 50, Validation Loss: 13.096512302952936
+Epoch 60, Validation Loss: 12.418922796547136
+Epoch 70, Validation Loss: 11.797407009331945
+Epoch 80, Validation Loss: 11.212575674442594
+Epoch 90, Validation Loss: 10.679499745943923

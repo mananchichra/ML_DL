@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "q3.py", line 46, in <module>
+    X_train, y_train, X_val, y_val, X_test, y_test = preprocess_data()
+  File "q3.py", line 22, in preprocess_data
+    boston = load_boston()
+NameError: name 'load_boston' is not defined

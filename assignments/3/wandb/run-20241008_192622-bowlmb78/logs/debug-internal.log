@@ -1,0 +1,18 @@
+{"time":"2024-10-08T19:26:22.308585453+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-08T19:26:22.308599822+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241008_192622-bowlmb78/logs/debug-core.log"}
+{"time":"2024-10-08T19:26:22.308708558+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-08T19:26:22.311597126+05:30","level":"INFO","msg":"created new stream","id":"bowlmb78"}
+{"time":"2024-10-08T19:26:22.31164552+05:30","level":"INFO","msg":"stream: started","id":"bowlmb78"}
+{"time":"2024-10-08T19:26:22.311667787+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"bowlmb78"}}
+{"time":"2024-10-08T19:26:22.311693984+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"bowlmb78"}}
+{"time":"2024-10-08T19:26:22.311749251+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"bowlmb78"}}
+{"time":"2024-10-08T19:26:22.718352885+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-08T19:26:22.718576637+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-08T19:26:23.449282071+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-08T19:26:23.449338326+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-08T19:26:24.580442052+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-08T19:26:26.083341213+05:30","level":"INFO","msg":"stream: closing","id":"bowlmb78"}
+{"time":"2024-10-08T19:26:26.0834006+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"bowlmb78"}}
+{"time":"2024-10-08T19:26:26.08344732+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"bowlmb78"}}
+{"time":"2024-10-08T19:26:26.083490213+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"bowlmb78"}}
+{"time":"2024-10-08T19:26:26.083549802+05:30","level":"INFO","msg":"stream: closed","id":"bowlmb78"}

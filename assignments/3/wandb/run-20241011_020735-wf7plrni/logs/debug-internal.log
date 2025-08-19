@@ -1,0 +1,18 @@
+{"time":"2024-10-11T02:07:35.727456195+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T02:07:35.727492331+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_020735-wf7plrni/logs/debug-core.log"}
+{"time":"2024-10-11T02:07:35.74051948+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T02:07:35.748582188+05:30","level":"INFO","msg":"created new stream","id":"wf7plrni"}
+{"time":"2024-10-11T02:07:35.748649071+05:30","level":"INFO","msg":"stream: started","id":"wf7plrni"}
+{"time":"2024-10-11T02:07:35.748710001+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"wf7plrni"}}
+{"time":"2024-10-11T02:07:35.748729357+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"wf7plrni"}}
+{"time":"2024-10-11T02:07:35.748729638+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"wf7plrni"}}
+{"time":"2024-10-11T02:07:36.156991693+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T02:07:36.157822496+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T02:07:36.879960546+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T02:07:36.880163759+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T02:07:38.947701299+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T02:07:40.424768245+05:30","level":"INFO","msg":"stream: closing","id":"wf7plrni"}
+{"time":"2024-10-11T02:07:40.424807091+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"wf7plrni"}}
+{"time":"2024-10-11T02:07:40.4248544+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"wf7plrni"}}
+{"time":"2024-10-11T02:07:40.424951173+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"wf7plrni"}}
+{"time":"2024-10-11T02:07:40.42497154+05:30","level":"INFO","msg":"stream: closed","id":"wf7plrni"}

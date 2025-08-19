@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:26:23.609851279+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:26:23.609894405+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_122623-32zf6umu/logs/debug-core.log"}
+{"time":"2024-10-11T12:26:23.621339035+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:26:23.630175779+05:30","level":"INFO","msg":"created new stream","id":"32zf6umu"}
+{"time":"2024-10-11T12:26:23.630216339+05:30","level":"INFO","msg":"stream: started","id":"32zf6umu"}
+{"time":"2024-10-11T12:26:23.630263131+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"32zf6umu"}}
+{"time":"2024-10-11T12:26:23.630306967+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"32zf6umu"}}
+{"time":"2024-10-11T12:26:23.630317436+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"32zf6umu"}}
+{"time":"2024-10-11T12:26:24.042558889+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:26:24.043846475+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:26:34.164640829+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:26:34.165221924+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:26:35.313722892+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:26:36.716737224+05:30","level":"INFO","msg":"stream: closing","id":"32zf6umu"}
+{"time":"2024-10-11T12:26:36.716769598+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"32zf6umu"}}
+{"time":"2024-10-11T12:26:36.716793942+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"32zf6umu"}}
+{"time":"2024-10-11T12:26:36.71683049+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"32zf6umu"}}
+{"time":"2024-10-11T12:26:36.716928457+05:30","level":"INFO","msg":"stream: closed","id":"32zf6umu"}

@@ -1,0 +1,70 @@
+2024-10-11 02:03:30,059 INFO    Thread-9  :177491 [wandb_setup.py:_flush():79] Current SDK version is 0.18.2
+2024-10-11 02:03:30,060 INFO    Thread-9  :177491 [wandb_setup.py:_flush():79] Configure stats pid to 177491
+2024-10-11 02:03:30,060 INFO    Thread-9  :177491 [wandb_setup.py:_flush():79] Loading settings from /home/mananchichra/.config/wandb/settings
+2024-10-11 02:03:30,060 INFO    Thread-9  :177491 [wandb_setup.py:_flush():79] Loading settings from /home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/settings
+2024-10-11 02:03:30,060 INFO    Thread-9  :177491 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'Q3.3-Tuning', 'entity': 'manan-chichra-iiit-hyderabad', 'root_dir': '/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3', 'run_id': '5brtmyyv', 'sweep_param_path': '/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/sweep-2phqnlgu/config-5brtmyyv.yaml', 'sweep_id': '2phqnlgu'}
+2024-10-11 02:03:30,060 INFO    Thread-9  :177491 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-11 02:03:30,060 INFO    Thread-9  :177491 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'assignments/3/q3.py', 'program_abspath': '/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/q3.py', 'program': 'q3.py'}
+2024-10-11 02:03:30,060 INFO    Thread-9  :177491 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-11 02:03:30,060 INFO    Thread-9  :177491 [wandb_init.py:_log_setup():532] Logging user logs to /home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_020330-5brtmyyv/logs/debug.log
+2024-10-11 02:03:30,060 INFO    Thread-9  :177491 [wandb_init.py:_log_setup():533] Logging internal logs to /home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_020330-5brtmyyv/logs/debug-internal.log
+2024-10-11 02:03:30,060 INFO    Thread-9  :177491 [wandb_init.py:init():616] calling init triggers
+2024-10-11 02:03:30,060 INFO    Thread-9  :177491 [wandb_init.py:init():623] wandb.init called with sweep_config: {'activation': 'tanh', 'hidden_layers': [256, 128, 64], 'learning_rate': 0.01, 'optimizer': 'adam'}
+config: {}
+2024-10-11 02:03:30,060 INFO    Thread-9  :177491 [wandb_init.py:init():666] starting backend
+2024-10-11 02:03:30,060 INFO    Thread-9  :177491 [wandb_init.py:init():670] sending inform_init request
+2024-10-11 02:03:30,067 INFO    Thread-9  :177491 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-11 02:03:30,068 INFO    Thread-9  :177491 [wandb_init.py:init():683] backend started and connected
+2024-10-11 02:03:30,080 INFO    Thread-9  :177491 [wandb_run.py:_config_callback():1393] config_cb None None {'activation': 'tanh', 'hidden_layers': [256, 128, 64], 'learning_rate': 0.01, 'optimizer': 'adam'}
+2024-10-11 02:03:30,083 INFO    Thread-9  :177491 [wandb_init.py:init():778] updated telemetry
+2024-10-11 02:03:30,105 INFO    Thread-9  :177491 [wandb_init.py:init():811] communicating run to backend with 90.0 second timeout
+2024-10-11 02:03:30,594 INFO    Thread-9  :177491 [wandb_init.py:init():862] starting run threads in backend
+2024-10-11 02:03:30,842 INFO    Thread-9  :177491 [wandb_run.py:_console_start():2464] atexit reg
+2024-10-11 02:03:30,842 INFO    Thread-9  :177491 [wandb_run.py:_redirect():2312] redirect: wrap_raw
+2024-10-11 02:03:30,842 INFO    Thread-9  :177491 [wandb_run.py:_redirect():2377] Wrapping output streams.
+2024-10-11 02:03:30,842 INFO    Thread-9  :177491 [wandb_run.py:_redirect():2402] Redirects installed.
+2024-10-11 02:03:30,843 INFO    Thread-9  :177491 [wandb_init.py:init():906] run started, returning control to user process
+2024-10-11 02:03:30,847 INFO    Thread-9  :177491 [wandb_run.py:_finish():2163] finishing run manan-chichra-iiit-hyderabad/Q3.3-Tuning/5brtmyyv
+2024-10-11 02:03:30,848 INFO    Thread-9  :177491 [wandb_run.py:_atexit_cleanup():2427] got exitcode: 1
+2024-10-11 02:03:30,848 INFO    Thread-9  :177491 [wandb_run.py:_restore():2409] restore
+2024-10-11 02:03:30,849 INFO    Thread-9  :177491 [wandb_run.py:_restore():2415] restore done
+2024-10-11 02:03:36,856 INFO    Thread-9  :177491 [wandb_run.py:_restore():2409] restore
+2024-10-11 02:03:36,856 INFO    Thread-9  :177491 [wandb_run.py:_restore():2415] restore done
+2024-10-11 02:03:36,857 ERROR   Thread-9  :177491 [wandb_run.py:_atexit_cleanup():2448] Problem finishing run
+Traceback (most recent call last):
+  File "/home/mananchichra/anaconda3/lib/python3.8/site-packages/wandb/sdk/wandb_config.py", line 165, in __getattr__
+    return self.__getitem__(key)
+  File "/home/mananchichra/anaconda3/lib/python3.8/site-packages/wandb/sdk/wandb_config.py", line 130, in __getitem__
+    return self._items[key]
+KeyError: 'epochs'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/mananchichra/anaconda3/lib/python3.8/site-packages/wandb/agents/pyagent.py", line 306, in _run_job
+    self._function()
+  File "q3.py", line 170, in train
+    mlp.fit(X_train, y_train,X_val,y_val,epochs=config.epochs, batch_size=config.batch_size)
+  File "/home/mananchichra/anaconda3/lib/python3.8/site-packages/wandb/sdk/wandb_config.py", line 167, in __getattr__
+    raise AttributeError(
+AttributeError: <class 'wandb.sdk.wandb_config.Config'> object has no attribute 'epochs'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/mananchichra/anaconda3/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 2439, in _atexit_cleanup
+    self._on_finish()
+  File "/home/mananchichra/anaconda3/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 2681, in _on_finish
+    _ = exit_handle.wait(timeout=-1, on_progress=self._on_progress_exit)
+  File "/home/mananchichra/anaconda3/lib/python3.8/site-packages/wandb/sdk/lib/mailbox.py", line 283, in wait
+    found, abandoned = self._slot._get_and_clear(timeout=wait_timeout)
+  File "/home/mananchichra/anaconda3/lib/python3.8/site-packages/wandb/sdk/lib/mailbox.py", line 130, in _get_and_clear
+    if self._wait(timeout=timeout):
+  File "/home/mananchichra/anaconda3/lib/python3.8/site-packages/wandb/sdk/lib/mailbox.py", line 126, in _wait
+    return self._event.wait(timeout=timeout)
+  File "/home/mananchichra/anaconda3/lib/python3.8/threading.py", line 558, in wait
+    signaled = self._cond.wait(timeout)
+  File "/home/mananchichra/anaconda3/lib/python3.8/threading.py", line 306, in wait
+    gotit = waiter.acquire(True, timeout)
+Exception
+2024-10-11 02:03:37,653 WARNING MsgRouterThr:177491 [router.py:message_loop():77] message_loop has been closed

@@ -1,0 +1,18 @@
+{"time":"2024-10-11T02:07:07.34662556+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T02:07:07.346680661+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_020707-vxomi5br/logs/debug-core.log"}
+{"time":"2024-10-11T02:07:07.371967478+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T02:07:07.379913957+05:30","level":"INFO","msg":"created new stream","id":"vxomi5br"}
+{"time":"2024-10-11T02:07:07.379956441+05:30","level":"INFO","msg":"stream: started","id":"vxomi5br"}
+{"time":"2024-10-11T02:07:07.380000785+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"vxomi5br"}}
+{"time":"2024-10-11T02:07:07.380028546+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"vxomi5br"}}
+{"time":"2024-10-11T02:07:07.380094869+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"vxomi5br"}}
+{"time":"2024-10-11T02:07:07.758107125+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T02:07:07.760332951+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T02:07:16.546633961+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T02:07:16.546834239+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T02:07:17.869876415+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T02:07:19.263292267+05:30","level":"INFO","msg":"stream: closing","id":"vxomi5br"}
+{"time":"2024-10-11T02:07:19.263364863+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"vxomi5br"}}
+{"time":"2024-10-11T02:07:19.263398856+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"vxomi5br"}}
+{"time":"2024-10-11T02:07:19.263396643+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"vxomi5br"}}
+{"time":"2024-10-11T02:07:19.263530659+05:30","level":"INFO","msg":"stream: closed","id":"vxomi5br"}

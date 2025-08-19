@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:40:57.613666505+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:40:57.613714043+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_124057-dxg57inf/logs/debug-core.log"}
+{"time":"2024-10-11T12:40:59.616949946+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:40:59.623645417+05:30","level":"INFO","msg":"created new stream","id":"dxg57inf"}
+{"time":"2024-10-11T12:40:59.623708005+05:30","level":"INFO","msg":"stream: started","id":"dxg57inf"}
+{"time":"2024-10-11T12:40:59.623797105+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"dxg57inf"}}
+{"time":"2024-10-11T12:40:59.623729796+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"dxg57inf"}}
+{"time":"2024-10-11T12:40:59.623750767+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"dxg57inf"}}
+{"time":"2024-10-11T12:41:00.026599654+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:41:00.02761318+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:41:06.862855715+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:41:06.863014207+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:41:08.009431113+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:41:09.406573194+05:30","level":"INFO","msg":"stream: closing","id":"dxg57inf"}
+{"time":"2024-10-11T12:41:09.406600756+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"dxg57inf"}}
+{"time":"2024-10-11T12:41:09.406628393+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"dxg57inf"}}
+{"time":"2024-10-11T12:41:09.406635603+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"dxg57inf"}}
+{"time":"2024-10-11T12:41:09.406727642+05:30","level":"INFO","msg":"stream: closed","id":"dxg57inf"}

@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "bonus.py", line 54, in <module>
+    mlp.fit(X_train, y_train)
+  File "/home/mananchichra/Downloads/SMAI_ASSIGNMENT/models/MLP/MLP_combined.py", line 78, in fit
+    gradients = self.backward(X, y, y_pred)
+  File "/home/mananchichra/Downloads/SMAI_ASSIGNMENT/models/MLP/MLP_combined.py", line 63, in backward
+    dz = np.dot(dz, self.weights[i].T) * self.derivative(self.z_values[i-1], self.activation)
+ValueError: operands could not be broadcast together with shapes (914,12) (914,6)

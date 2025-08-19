@@ -1,0 +1,18 @@
+{"time":"2024-10-08T18:50:35.374325248+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-08T18:50:35.374376117+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241008_185035-ll46hg1b/logs/debug-core.log"}
+{"time":"2024-10-08T18:50:35.374569856+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-08T18:50:35.380421581+05:30","level":"INFO","msg":"created new stream","id":"ll46hg1b"}
+{"time":"2024-10-08T18:50:35.380443662+05:30","level":"INFO","msg":"stream: started","id":"ll46hg1b"}
+{"time":"2024-10-08T18:50:35.3804668+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"ll46hg1b"}}
+{"time":"2024-10-08T18:50:35.380490036+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ll46hg1b"}}
+{"time":"2024-10-08T18:50:35.380547103+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"ll46hg1b"}}
+{"time":"2024-10-08T18:50:35.826475902+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-08T18:50:35.826839968+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-08T18:50:35.941649777+05:30","level":"INFO","msg":"stream: closing","id":"ll46hg1b"}
+{"time":"2024-10-08T18:50:35.941702022+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-08T18:50:35.941800962+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-08T18:50:37.799500534+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-08T18:50:38.157634299+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"ll46hg1b"}}
+{"time":"2024-10-08T18:50:38.157723448+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ll46hg1b"}}
+{"time":"2024-10-08T18:50:38.157744123+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"ll46hg1b"}}
+{"time":"2024-10-08T18:50:38.157813534+05:30","level":"INFO","msg":"stream: closed","id":"ll46hg1b"}

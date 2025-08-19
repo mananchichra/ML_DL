@@ -1,0 +1,18 @@
+{"time":"2024-10-08T19:13:09.809586419+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-08T19:13:09.809595755+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241008_191309-hcgmhcm6/logs/debug-core.log"}
+{"time":"2024-10-08T19:13:09.809696048+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-08T19:13:09.811325684+05:30","level":"INFO","msg":"created new stream","id":"hcgmhcm6"}
+{"time":"2024-10-08T19:13:09.811338574+05:30","level":"INFO","msg":"stream: started","id":"hcgmhcm6"}
+{"time":"2024-10-08T19:13:09.811356405+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"hcgmhcm6"}}
+{"time":"2024-10-08T19:13:09.811378664+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"hcgmhcm6"}}
+{"time":"2024-10-08T19:13:09.811411589+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"hcgmhcm6"}}
+{"time":"2024-10-08T19:13:10.277032302+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-08T19:13:10.277222272+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-08T19:13:11.032532434+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-08T19:13:11.032648246+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-08T19:13:12.194170716+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-08T19:13:13.689675557+05:30","level":"INFO","msg":"stream: closing","id":"hcgmhcm6"}
+{"time":"2024-10-08T19:13:13.68968878+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"hcgmhcm6"}}
+{"time":"2024-10-08T19:13:13.689702384+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"hcgmhcm6"}}
+{"time":"2024-10-08T19:13:13.689709472+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"hcgmhcm6"}}
+{"time":"2024-10-08T19:13:13.689751934+05:30","level":"INFO","msg":"stream: closed","id":"hcgmhcm6"}

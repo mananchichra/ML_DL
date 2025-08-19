@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:24:46.817738416+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:24:46.817769236+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_122446-zte64i9w/logs/debug-core.log"}
+{"time":"2024-10-11T12:24:46.83279916+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:24:46.839679626+05:30","level":"INFO","msg":"created new stream","id":"zte64i9w"}
+{"time":"2024-10-11T12:24:46.839730627+05:30","level":"INFO","msg":"stream: started","id":"zte64i9w"}
+{"time":"2024-10-11T12:24:46.839783417+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"zte64i9w"}}
+{"time":"2024-10-11T12:24:46.83981251+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"zte64i9w"}}
+{"time":"2024-10-11T12:24:46.839861584+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"zte64i9w"}}
+{"time":"2024-10-11T12:24:47.285763147+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:24:47.286546945+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:24:48.607931271+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:24:48.608100615+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:24:49.776075446+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:24:51.157142113+05:30","level":"INFO","msg":"stream: closing","id":"zte64i9w"}
+{"time":"2024-10-11T12:24:51.157176631+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"zte64i9w"}}
+{"time":"2024-10-11T12:24:51.157203746+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"zte64i9w"}}
+{"time":"2024-10-11T12:24:51.157310991+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"zte64i9w"}}
+{"time":"2024-10-11T12:24:51.157373257+05:30","level":"INFO","msg":"stream: closed","id":"zte64i9w"}

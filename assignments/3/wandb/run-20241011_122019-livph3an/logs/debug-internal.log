@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:20:19.730469034+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:20:19.730490277+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_122019-livph3an/logs/debug-core.log"}
+{"time":"2024-10-11T12:20:19.746919991+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:20:19.752107915+05:30","level":"INFO","msg":"created new stream","id":"livph3an"}
+{"time":"2024-10-11T12:20:19.752151702+05:30","level":"INFO","msg":"stream: started","id":"livph3an"}
+{"time":"2024-10-11T12:20:19.752194015+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"livph3an"}}
+{"time":"2024-10-11T12:20:19.752166268+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"livph3an"}}
+{"time":"2024-10-11T12:20:19.752240513+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"livph3an"}}
+{"time":"2024-10-11T12:20:20.195690324+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:20:20.196792597+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:20:21.224950163+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:20:21.225111333+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:20:39.011129961+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:20:40.379338659+05:30","level":"INFO","msg":"stream: closing","id":"livph3an"}
+{"time":"2024-10-11T12:20:40.379379312+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"livph3an"}}
+{"time":"2024-10-11T12:20:40.379423855+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"livph3an"}}
+{"time":"2024-10-11T12:20:40.37948487+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"livph3an"}}
+{"time":"2024-10-11T12:20:40.379562783+05:30","level":"INFO","msg":"stream: closed","id":"livph3an"}

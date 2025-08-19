@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:23:52.941245514+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:23:52.941298346+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_122352-bk77heos/logs/debug-core.log"}
+{"time":"2024-10-11T12:23:52.982230036+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:23:52.989869054+05:30","level":"INFO","msg":"created new stream","id":"bk77heos"}
+{"time":"2024-10-11T12:23:52.989906426+05:30","level":"INFO","msg":"stream: started","id":"bk77heos"}
+{"time":"2024-10-11T12:23:52.989942588+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"bk77heos"}}
+{"time":"2024-10-11T12:23:52.989973523+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"bk77heos"}}
+{"time":"2024-10-11T12:23:52.990010594+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"bk77heos"}}
+{"time":"2024-10-11T12:23:53.462091427+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:23:53.464378408+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:23:54.467631091+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:23:54.46782071+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:23:55.700649111+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:23:57.055947596+05:30","level":"INFO","msg":"stream: closing","id":"bk77heos"}
+{"time":"2024-10-11T12:23:57.055974533+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"bk77heos"}}
+{"time":"2024-10-11T12:23:57.056009239+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"bk77heos"}}
+{"time":"2024-10-11T12:23:57.056075015+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"bk77heos"}}
+{"time":"2024-10-11T12:23:57.056153575+05:30","level":"INFO","msg":"stream: closed","id":"bk77heos"}

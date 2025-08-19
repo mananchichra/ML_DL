@@ -1,0 +1,5 @@
+Epoch 0, Validation Loss: 102.165465709077
+/home/mananchichra/Downloads/SMAI_ASSIGNMENT/models/MLP/MLPReg.py:84: RuntimeWarning: invalid value encountered in multiply
+  dz = np.dot(dz, self.weights[i+1].T) * self._activation_derivative(self.z[i])
+/home/mananchichra/anaconda3/lib/python3.8/site-packages/numpy/core/fromnumeric.py:87: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)

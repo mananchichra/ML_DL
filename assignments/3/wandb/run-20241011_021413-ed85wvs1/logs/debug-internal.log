@@ -1,0 +1,18 @@
+{"time":"2024-10-11T02:14:13.092661942+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T02:14:13.092707203+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_021413-ed85wvs1/logs/debug-core.log"}
+{"time":"2024-10-11T02:14:13.101636907+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T02:14:13.108949295+05:30","level":"INFO","msg":"created new stream","id":"ed85wvs1"}
+{"time":"2024-10-11T02:14:13.109006899+05:30","level":"INFO","msg":"stream: started","id":"ed85wvs1"}
+{"time":"2024-10-11T02:14:13.109017778+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ed85wvs1"}}
+{"time":"2024-10-11T02:14:13.109030875+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"ed85wvs1"}}
+{"time":"2024-10-11T02:14:13.10906162+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"ed85wvs1"}}
+{"time":"2024-10-11T02:14:13.524307432+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T02:14:13.526181522+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T02:14:15.920296143+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T02:14:15.92049936+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T02:14:17.177233992+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T02:14:18.540528007+05:30","level":"INFO","msg":"stream: closing","id":"ed85wvs1"}
+{"time":"2024-10-11T02:14:18.540556307+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"ed85wvs1"}}
+{"time":"2024-10-11T02:14:18.540594601+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ed85wvs1"}}
+{"time":"2024-10-11T02:14:18.540628869+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"ed85wvs1"}}
+{"time":"2024-10-11T02:14:18.540670207+05:30","level":"INFO","msg":"stream: closed","id":"ed85wvs1"}

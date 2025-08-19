@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:36:11.971719186+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:36:11.971745041+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_123611-iko61b92/logs/debug-core.log"}
+{"time":"2024-10-11T12:36:11.978385784+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:36:11.985143382+05:30","level":"INFO","msg":"created new stream","id":"iko61b92"}
+{"time":"2024-10-11T12:36:11.985175422+05:30","level":"INFO","msg":"stream: started","id":"iko61b92"}
+{"time":"2024-10-11T12:36:11.98519319+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"iko61b92"}}
+{"time":"2024-10-11T12:36:11.985208034+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"iko61b92"}}
+{"time":"2024-10-11T12:36:11.985240343+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"iko61b92"}}
+{"time":"2024-10-11T12:36:12.411117438+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:36:12.412514656+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:36:25.807542596+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:36:25.807704099+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:36:27.19139969+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:36:28.576184312+05:30","level":"INFO","msg":"stream: closing","id":"iko61b92"}
+{"time":"2024-10-11T12:36:28.576209633+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"iko61b92"}}
+{"time":"2024-10-11T12:36:28.576245676+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"iko61b92"}}
+{"time":"2024-10-11T12:36:28.576280649+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"iko61b92"}}
+{"time":"2024-10-11T12:36:28.576346328+05:30","level":"INFO","msg":"stream: closed","id":"iko61b92"}

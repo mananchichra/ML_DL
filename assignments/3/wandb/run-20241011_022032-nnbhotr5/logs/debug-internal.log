@@ -1,0 +1,18 @@
+{"time":"2024-10-11T02:20:32.811691619+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T02:20:32.811722274+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_022032-nnbhotr5/logs/debug-core.log"}
+{"time":"2024-10-11T02:20:32.835246706+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T02:20:32.841400958+05:30","level":"INFO","msg":"created new stream","id":"nnbhotr5"}
+{"time":"2024-10-11T02:20:32.841462534+05:30","level":"INFO","msg":"stream: started","id":"nnbhotr5"}
+{"time":"2024-10-11T02:20:32.841498695+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"nnbhotr5"}}
+{"time":"2024-10-11T02:20:32.841492945+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"nnbhotr5"}}
+{"time":"2024-10-11T02:20:32.841515903+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"nnbhotr5"}}
+{"time":"2024-10-11T02:20:33.235082621+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T02:20:33.235950683+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T02:20:48.620610889+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T02:20:48.620764501+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T02:20:50.642365929+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T02:20:51.992828149+05:30","level":"INFO","msg":"stream: closing","id":"nnbhotr5"}
+{"time":"2024-10-11T02:20:51.992864218+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"nnbhotr5"}}
+{"time":"2024-10-11T02:20:51.992893402+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"nnbhotr5"}}
+{"time":"2024-10-11T02:20:51.992905598+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"nnbhotr5"}}
+{"time":"2024-10-11T02:20:51.992994746+05:30","level":"INFO","msg":"stream: closed","id":"nnbhotr5"}

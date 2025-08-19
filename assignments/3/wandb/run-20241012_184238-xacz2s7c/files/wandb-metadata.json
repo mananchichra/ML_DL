@@ -1,0 +1,32 @@
+{
+  "os":  "Linux-6.8.0-45-generic-x86_64-with-glibc2.10",
+  "python":  "3.8.5",
+  "startedAt":  "2024-10-12T13:12:39.000243Z",
+  "program":  "bonus.py",
+  "codePath":  "assignments/3/bonus.py",
+  "git":  {
+    "remote":  "https://github.com/smai-monsoon-24/smai-m24-assignments-mananchichra.git",
+    "commit":  "80b6c837669b38a2f3e38cc3a6cc8755e6d33d40"
+  },
+  "email":  "manan.chichra@students.iiit.ac.in",
+  "root":  "/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3",
+  "host":  "mananchichra-Inspiron-14-5420",
+  "username":  "mananchichra",
+  "executable":  "/home/mananchichra/anaconda3/bin/python3",
+  "codePathLocal":  "bonus.py",
+  "cpu_count":  12,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "152475262976",
+      "used":  "137793363968"
+    }
+  },
+  "memory":  {
+    "total":  "16438214656"
+  },
+  "cpu":  {
+    "count":  12,
+    "countLogical":  16
+  }
+}

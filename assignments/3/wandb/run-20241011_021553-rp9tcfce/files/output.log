@@ -1,0 +1,7 @@
+Epoch 0, Validation Loss: 256.6252880416889
+Epoch 10, Validation Loss: 4.393361432730123e+65
+Epoch 20, Validation Loss: 2.204533274123177e+134
+Epoch 30, Validation Loss: 1.1062069513584836e+203
+Epoch 40, Validation Loss: 5.550806756230643e+271
+/home/mananchichra/Downloads/SMAI_ASSIGNMENT/models/MLP/MLPReg.py:84: RuntimeWarning: invalid value encountered in multiply
+  dz = np.dot(dz, self.weights[i+1].T) * self._activation_derivative(self.z[i])

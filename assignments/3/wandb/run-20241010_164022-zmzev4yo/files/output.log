@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "q2_6.py", line 182, in <module>
+    mlp.fit(X_train.values, y_train)
+  File "/home/mananchichra/Downloads/SMAI_ASSIGNMENT/models/MLP/MLPMC.py", line 337, in fit
+    self.backward(X_batch, y_batch, output)
+  File "/home/mananchichra/Downloads/SMAI_ASSIGNMENT/models/MLP/MLPMC.py", line 298, in backward
+    delta = np.dot(delta, self.weights[i + 1].T) * activation_derivative_func(self.z_values[i])
+  File "<__array_function__ internals>", line 5, in dot
+ValueError: shapes (32,8) and (32,64) not aligned: 8 (dim 1) != 32 (dim 0)

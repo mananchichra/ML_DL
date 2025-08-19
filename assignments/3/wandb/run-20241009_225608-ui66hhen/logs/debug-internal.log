@@ -1,0 +1,18 @@
+{"time":"2024-10-09T22:56:08.625560951+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-09T22:56:08.625586322+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241009_225608-ui66hhen/logs/debug-core.log"}
+{"time":"2024-10-09T22:56:08.644165768+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-09T22:56:08.650191671+05:30","level":"INFO","msg":"created new stream","id":"ui66hhen"}
+{"time":"2024-10-09T22:56:08.65023872+05:30","level":"INFO","msg":"stream: started","id":"ui66hhen"}
+{"time":"2024-10-09T22:56:08.65028283+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"ui66hhen"}}
+{"time":"2024-10-09T22:56:08.650294876+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"ui66hhen"}}
+{"time":"2024-10-09T22:56:08.650301782+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ui66hhen"}}
+{"time":"2024-10-09T22:56:09.065991398+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-09T22:56:09.066874859+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-09T22:56:22.06563925+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-09T22:56:22.065889004+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-09T22:56:23.2972101+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-09T22:56:24.943711676+05:30","level":"INFO","msg":"stream: closing","id":"ui66hhen"}
+{"time":"2024-10-09T22:56:24.943732952+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"ui66hhen"}}
+{"time":"2024-10-09T22:56:24.943764546+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ui66hhen"}}
+{"time":"2024-10-09T22:56:24.943792916+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"ui66hhen"}}
+{"time":"2024-10-09T22:56:24.943894631+05:30","level":"INFO","msg":"stream: closed","id":"ui66hhen"}

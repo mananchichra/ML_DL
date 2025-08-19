@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:01:14.241118624+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:01:14.241190161+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_120114-urynq652/logs/debug-core.log"}
+{"time":"2024-10-11T12:01:14.249995477+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:01:14.26006446+05:30","level":"INFO","msg":"created new stream","id":"urynq652"}
+{"time":"2024-10-11T12:01:14.260184508+05:30","level":"INFO","msg":"stream: started","id":"urynq652"}
+{"time":"2024-10-11T12:01:14.260296071+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"urynq652"}}
+{"time":"2024-10-11T12:01:14.260241969+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"urynq652"}}
+{"time":"2024-10-11T12:01:14.260339958+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"urynq652"}}
+{"time":"2024-10-11T12:01:14.712681775+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:01:14.713542913+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:01:19.195425541+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:01:19.195756174+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:01:20.3500647+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:01:21.730494355+05:30","level":"INFO","msg":"stream: closing","id":"urynq652"}
+{"time":"2024-10-11T12:01:21.730526607+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"urynq652"}}
+{"time":"2024-10-11T12:01:21.7305527+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"urynq652"}}
+{"time":"2024-10-11T12:01:21.730586221+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"urynq652"}}
+{"time":"2024-10-11T12:01:21.730648247+05:30","level":"INFO","msg":"stream: closed","id":"urynq652"}

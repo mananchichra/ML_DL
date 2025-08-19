@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "q3.py", line 51, in <module>
+    X_train, y_train, X_val, y_val, X_test, y_test = preprocess_data()
+  File "q3.py", line 45, in preprocess_data
+    X_train, y_train = X_train.to_numpy(), y_train.to_numpy()
+AttributeError: 'numpy.ndarray' object has no attribute 'to_numpy'

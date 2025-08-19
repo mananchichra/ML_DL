@@ -1,0 +1,18 @@
+{"time":"2024-10-11T02:19:10.780158449+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T02:19:10.780200518+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_021910-vlupz71i/logs/debug-core.log"}
+{"time":"2024-10-11T02:19:10.809793126+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T02:19:10.815464353+05:30","level":"INFO","msg":"created new stream","id":"vlupz71i"}
+{"time":"2024-10-11T02:19:10.815500813+05:30","level":"INFO","msg":"stream: started","id":"vlupz71i"}
+{"time":"2024-10-11T02:19:10.815538107+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"vlupz71i"}}
+{"time":"2024-10-11T02:19:10.815569803+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"vlupz71i"}}
+{"time":"2024-10-11T02:19:10.815653446+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"vlupz71i"}}
+{"time":"2024-10-11T02:19:11.247154038+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T02:19:11.248348508+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T02:19:13.39897777+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T02:19:13.399157399+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T02:19:15.307476739+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T02:19:16.697902677+05:30","level":"INFO","msg":"stream: closing","id":"vlupz71i"}
+{"time":"2024-10-11T02:19:16.697938722+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"vlupz71i"}}
+{"time":"2024-10-11T02:19:16.697967841+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"vlupz71i"}}
+{"time":"2024-10-11T02:19:16.698025092+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"vlupz71i"}}
+{"time":"2024-10-11T02:19:16.698209376+05:30","level":"INFO","msg":"stream: closed","id":"vlupz71i"}

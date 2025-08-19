@@ -1,0 +1,18 @@
+{"time":"2024-10-08T19:13:13.837588398+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-08T19:13:13.837605284+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241008_191313-qdl27t5a/logs/debug-core.log"}
+{"time":"2024-10-08T19:13:13.837716634+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-08T19:13:13.840291638+05:30","level":"INFO","msg":"created new stream","id":"qdl27t5a"}
+{"time":"2024-10-08T19:13:13.840323157+05:30","level":"INFO","msg":"stream: started","id":"qdl27t5a"}
+{"time":"2024-10-08T19:13:13.84035218+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"qdl27t5a"}}
+{"time":"2024-10-08T19:13:13.840375793+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"qdl27t5a"}}
+{"time":"2024-10-08T19:13:13.840368527+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"qdl27t5a"}}
+{"time":"2024-10-08T19:13:14.331311702+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-08T19:13:14.331489088+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-08T19:13:15.169072223+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-08T19:13:15.169162343+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-08T19:13:16.411305641+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-08T19:13:17.889143585+05:30","level":"INFO","msg":"stream: closing","id":"qdl27t5a"}
+{"time":"2024-10-08T19:13:17.889167171+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"qdl27t5a"}}
+{"time":"2024-10-08T19:13:17.889187718+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"qdl27t5a"}}
+{"time":"2024-10-08T19:13:17.889193958+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"qdl27t5a"}}
+{"time":"2024-10-08T19:13:17.88927814+05:30","level":"INFO","msg":"stream: closed","id":"qdl27t5a"}

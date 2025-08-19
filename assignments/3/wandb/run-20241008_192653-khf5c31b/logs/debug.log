@@ -1,0 +1,97 @@
+2024-10-08 19:26:53,559 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Current SDK version is 0.18.2
+2024-10-08 19:26:53,560 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Configure stats pid to 110456
+2024-10-08 19:26:53,560 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Loading settings from /home/mananchichra/.config/wandb/settings
+2024-10-08 19:26:53,560 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Loading settings from /home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/settings
+2024-10-08 19:26:53,560 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-08 19:26:53,560 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-08 19:26:53,560 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'assignments/3/q3.py', 'program_abspath': '/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/q3.py', 'program': 'q3.py'}
+2024-10-08 19:26:53,560 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-08 19:26:53,560 INFO    MainThread:110456 [wandb_init.py:_log_setup():532] Logging user logs to /home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241008_192653-khf5c31b/logs/debug.log
+2024-10-08 19:26:53,560 INFO    MainThread:110456 [wandb_init.py:_log_setup():533] Logging internal logs to /home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241008_192653-khf5c31b/logs/debug-internal.log
+2024-10-08 19:26:53,560 INFO    MainThread:110456 [wandb_init.py:init():616] calling init triggers
+2024-10-08 19:26:53,560 INFO    MainThread:110456 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {}
+2024-10-08 19:26:53,560 INFO    MainThread:110456 [wandb_init.py:init():661] wandb.init() called when a run is still active
+2024-10-08 19:26:53,561 INFO    MainThread:110456 [wandb_config.py:__setitem__():154] config set learning_rate = 0.01 - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x717c1cddd3a0>>
+2024-10-08 19:26:53,561 INFO    MainThread:110456 [wandb_run.py:_config_callback():1393] config_cb learning_rate 0.01 None
+2024-10-08 19:26:53,561 INFO    MainThread:110456 [wandb_config.py:__setitem__():154] config set epochs = 500 - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x717c1cddd3a0>>
+2024-10-08 19:26:53,561 INFO    MainThread:110456 [wandb_run.py:_config_callback():1393] config_cb epochs 500 None
+2024-10-08 19:26:53,561 INFO    MainThread:110456 [wandb_config.py:__setitem__():154] config set batch_size = 32 - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x717c1cddd3a0>>
+2024-10-08 19:26:53,561 INFO    MainThread:110456 [wandb_run.py:_config_callback():1393] config_cb batch_size 32 None
+2024-10-08 19:26:53,561 INFO    MainThread:110456 [wandb_config.py:__setitem__():154] config set hidden_layers = [64, 32] - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x717c1cddd3a0>>
+2024-10-08 19:26:53,561 INFO    MainThread:110456 [wandb_run.py:_config_callback():1393] config_cb hidden_layers [64, 32] None
+2024-10-08 19:26:53,561 INFO    MainThread:110456 [wandb_config.py:__setitem__():154] config set activation = relu - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x717c1cddd3a0>>
+2024-10-08 19:26:53,561 INFO    MainThread:110456 [wandb_run.py:_config_callback():1393] config_cb activation relu None
+2024-10-08 19:26:54,349 INFO    MainThread:110456 [wandb_run.py:_finish():2163] finishing run manan-chichra-iiit-hyderabad/MLP_Regression_Boston_Housing/kae5a15n
+2024-10-08 19:26:54,349 INFO    MainThread:110456 [wandb_run.py:_atexit_cleanup():2427] got exitcode: 0
+2024-10-08 19:26:54,349 INFO    MainThread:110456 [wandb_run.py:_restore():2409] restore
+2024-10-08 19:26:54,349 INFO    MainThread:110456 [wandb_run.py:_restore():2415] restore done
+2024-10-08 19:26:56,873 INFO    MainThread:110456 [wandb_run.py:_footer_history_summary_info():4042] rendering history
+2024-10-08 19:26:56,875 INFO    MainThread:110456 [wandb_run.py:_footer_history_summary_info():4074] rendering summary
+2024-10-08 19:26:56,885 INFO    MainThread:110456 [wandb_run.py:_footer_sync_info():4001] logging synced files
+2024-10-08 19:26:57,095 INFO    MainThread:110456 [wandb_settings.py:_apply_login():1970] Applying login settings: {}
+2024-10-08 19:26:57,098 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Current SDK version is 0.18.2
+2024-10-08 19:26:57,099 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Configure stats pid to 110456
+2024-10-08 19:26:57,099 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Loading settings from /home/mananchichra/.config/wandb/settings
+2024-10-08 19:26:57,099 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Loading settings from /home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/settings
+2024-10-08 19:26:57,099 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-08 19:26:57,099 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-08 19:26:57,099 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'assignments/3/q3.py', 'program_abspath': '/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/q3.py', 'program': 'q3.py'}
+2024-10-08 19:26:57,099 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-08 19:26:57,099 INFO    MainThread:110456 [wandb_init.py:_log_setup():532] Logging user logs to /home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241008_192657-zdw7szk9/logs/debug.log
+2024-10-08 19:26:57,099 INFO    MainThread:110456 [wandb_init.py:_log_setup():533] Logging internal logs to /home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241008_192657-zdw7szk9/logs/debug-internal.log
+2024-10-08 19:26:57,099 INFO    MainThread:110456 [wandb_init.py:init():616] calling init triggers
+2024-10-08 19:26:57,099 INFO    MainThread:110456 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {}
+2024-10-08 19:26:57,099 INFO    MainThread:110456 [wandb_init.py:init():666] starting backend
+2024-10-08 19:26:57,099 INFO    MainThread:110456 [wandb_init.py:init():670] sending inform_init request
+2024-10-08 19:26:57,100 INFO    MainThread:110456 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-08 19:26:57,101 INFO    MainThread:110456 [wandb_init.py:init():683] backend started and connected
+2024-10-08 19:26:57,103 INFO    MainThread:110456 [wandb_init.py:init():778] updated telemetry
+2024-10-08 19:26:57,117 INFO    MainThread:110456 [wandb_init.py:init():811] communicating run to backend with 90.0 second timeout
+2024-10-08 19:26:57,511 INFO    MainThread:110456 [wandb_init.py:init():862] starting run threads in backend
+2024-10-08 19:26:57,595 INFO    MainThread:110456 [wandb_run.py:_console_start():2464] atexit reg
+2024-10-08 19:26:57,595 INFO    MainThread:110456 [wandb_run.py:_redirect():2312] redirect: wrap_raw
+2024-10-08 19:26:57,595 INFO    MainThread:110456 [wandb_run.py:_redirect():2377] Wrapping output streams.
+2024-10-08 19:26:57,595 INFO    MainThread:110456 [wandb_run.py:_redirect():2402] Redirects installed.
+2024-10-08 19:26:57,596 INFO    MainThread:110456 [wandb_init.py:init():906] run started, returning control to user process
+2024-10-08 19:26:57,644 INFO    MainThread:110456 [wandb_run.py:_finish():2163] finishing run manan-chichra-iiit-hyderabad/binary_classification_mse_vs_bce/zdw7szk9
+2024-10-08 19:26:57,644 INFO    MainThread:110456 [wandb_run.py:_atexit_cleanup():2427] got exitcode: 0
+2024-10-08 19:26:57,645 INFO    MainThread:110456 [wandb_run.py:_restore():2409] restore
+2024-10-08 19:26:57,645 INFO    MainThread:110456 [wandb_run.py:_restore():2415] restore done
+2024-10-08 19:27:01,432 INFO    MainThread:110456 [wandb_run.py:_footer_history_summary_info():4042] rendering history
+2024-10-08 19:27:01,434 INFO    MainThread:110456 [wandb_run.py:_footer_history_summary_info():4074] rendering summary
+2024-10-08 19:27:01,439 INFO    MainThread:110456 [wandb_run.py:_footer_sync_info():4001] logging synced files
+2024-10-08 19:27:01,574 INFO    MainThread:110456 [wandb_settings.py:_apply_login():1970] Applying login settings: {}
+2024-10-08 19:27:01,577 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Current SDK version is 0.18.2
+2024-10-08 19:27:01,577 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Configure stats pid to 110456
+2024-10-08 19:27:01,577 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Loading settings from /home/mananchichra/.config/wandb/settings
+2024-10-08 19:27:01,577 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Loading settings from /home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/settings
+2024-10-08 19:27:01,577 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-08 19:27:01,577 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-08 19:27:01,577 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'assignments/3/q3.py', 'program_abspath': '/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/q3.py', 'program': 'q3.py'}
+2024-10-08 19:27:01,577 INFO    MainThread:110456 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-08 19:27:01,577 INFO    MainThread:110456 [wandb_init.py:_log_setup():532] Logging user logs to /home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241008_192701-6al2r64o/logs/debug.log
+2024-10-08 19:27:01,577 INFO    MainThread:110456 [wandb_init.py:_log_setup():533] Logging internal logs to /home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241008_192701-6al2r64o/logs/debug-internal.log
+2024-10-08 19:27:01,577 INFO    MainThread:110456 [wandb_init.py:init():616] calling init triggers
+2024-10-08 19:27:01,577 INFO    MainThread:110456 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {}
+2024-10-08 19:27:01,577 INFO    MainThread:110456 [wandb_init.py:init():666] starting backend
+2024-10-08 19:27:01,577 INFO    MainThread:110456 [wandb_init.py:init():670] sending inform_init request
+2024-10-08 19:27:01,577 INFO    MainThread:110456 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-08 19:27:01,578 INFO    MainThread:110456 [wandb_init.py:init():683] backend started and connected
+2024-10-08 19:27:01,580 INFO    MainThread:110456 [wandb_init.py:init():778] updated telemetry
+2024-10-08 19:27:01,590 INFO    MainThread:110456 [wandb_init.py:init():811] communicating run to backend with 90.0 second timeout
+2024-10-08 19:27:02,197 INFO    MainThread:110456 [wandb_init.py:init():862] starting run threads in backend
+2024-10-08 19:27:02,276 INFO    MainThread:110456 [wandb_run.py:_console_start():2464] atexit reg
+2024-10-08 19:27:02,276 INFO    MainThread:110456 [wandb_run.py:_redirect():2312] redirect: wrap_raw
+2024-10-08 19:27:02,276 INFO    MainThread:110456 [wandb_run.py:_redirect():2377] Wrapping output streams.
+2024-10-08 19:27:02,276 INFO    MainThread:110456 [wandb_run.py:_redirect():2402] Redirects installed.
+2024-10-08 19:27:02,277 INFO    MainThread:110456 [wandb_init.py:init():906] run started, returning control to user process
+2024-10-08 19:27:02,343 INFO    MainThread:110456 [wandb_run.py:_finish():2163] finishing run manan-chichra-iiit-hyderabad/binary_classification_mse_vs_bce/6al2r64o
+2024-10-08 19:27:02,343 INFO    MainThread:110456 [wandb_run.py:_atexit_cleanup():2427] got exitcode: 0
+2024-10-08 19:27:02,343 INFO    MainThread:110456 [wandb_run.py:_restore():2409] restore
+2024-10-08 19:27:02,344 INFO    MainThread:110456 [wandb_run.py:_restore():2415] restore done
+2024-10-08 19:27:05,727 INFO    MainThread:110456 [wandb_run.py:_footer_history_summary_info():4042] rendering history
+2024-10-08 19:27:05,728 INFO    MainThread:110456 [wandb_run.py:_footer_history_summary_info():4074] rendering summary
+2024-10-08 19:27:05,735 INFO    MainThread:110456 [wandb_run.py:_footer_sync_info():4001] logging synced files

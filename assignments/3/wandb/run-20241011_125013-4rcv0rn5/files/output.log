@@ -1,0 +1,7 @@
+Epoch 0, Validation Loss: 483.78636249061867
+Epoch 10, Validation Loss: 14.328588594505433
+Epoch 20, Validation Loss: 13.29230581735959
+Epoch 30, Validation Loss: 12.154225850094809
+Epoch 40, Validation Loss: 10.14964137264283
+Epoch 50, Validation Loss: 8.440467297785323
+[34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.

@@ -1,0 +1,1 @@
+{"recall":0,"_timestamp":1.7285910420186949e+09,"accuracy":0,"train_loss":0.01686011886452281,"precision":0,"val_loss":0.016503544378850436,"f1":0,"epoch":77,"hamming loss":0.0025188916876574307,"_wandb":{"runtime":33},"_step":76,"_runtime":33.457701298}

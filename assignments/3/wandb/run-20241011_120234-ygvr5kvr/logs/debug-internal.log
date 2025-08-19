@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:02:34.602286162+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:02:34.602326368+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_120234-ygvr5kvr/logs/debug-core.log"}
+{"time":"2024-10-11T12:02:34.616296904+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:02:34.625022826+05:30","level":"INFO","msg":"created new stream","id":"ygvr5kvr"}
+{"time":"2024-10-11T12:02:34.625085168+05:30","level":"INFO","msg":"stream: started","id":"ygvr5kvr"}
+{"time":"2024-10-11T12:02:34.625170386+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"ygvr5kvr"}}
+{"time":"2024-10-11T12:02:34.625119462+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ygvr5kvr"}}
+{"time":"2024-10-11T12:02:34.625172407+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"ygvr5kvr"}}
+{"time":"2024-10-11T12:02:35.081473512+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:02:35.083256589+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:02:35.823471751+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:02:35.823689271+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:02:37.192800229+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:02:38.586554066+05:30","level":"INFO","msg":"stream: closing","id":"ygvr5kvr"}
+{"time":"2024-10-11T12:02:38.586608716+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"ygvr5kvr"}}
+{"time":"2024-10-11T12:02:38.586746922+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"ygvr5kvr"}}
+{"time":"2024-10-11T12:02:38.586718385+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ygvr5kvr"}}
+{"time":"2024-10-11T12:02:38.586971314+05:30","level":"INFO","msg":"stream: closed","id":"ygvr5kvr"}

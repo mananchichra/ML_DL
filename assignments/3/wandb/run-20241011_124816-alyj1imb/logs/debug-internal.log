@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:48:16.082451889+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:48:16.08248118+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_124816-alyj1imb/logs/debug-core.log"}
+{"time":"2024-10-11T12:48:16.169953233+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:48:16.178868601+05:30","level":"INFO","msg":"created new stream","id":"alyj1imb"}
+{"time":"2024-10-11T12:48:16.178908152+05:30","level":"INFO","msg":"stream: started","id":"alyj1imb"}
+{"time":"2024-10-11T12:48:16.178985451+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"alyj1imb"}}
+{"time":"2024-10-11T12:48:16.179049844+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"alyj1imb"}}
+{"time":"2024-10-11T12:48:16.179003161+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"alyj1imb"}}
+{"time":"2024-10-11T12:48:16.582356615+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:48:16.5836778+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:48:33.230821758+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:48:33.231209605+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:48:51.651978573+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:48:54.200730905+05:30","level":"INFO","msg":"stream: closing","id":"alyj1imb"}
+{"time":"2024-10-11T12:48:54.200771899+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"alyj1imb"}}
+{"time":"2024-10-11T12:48:54.200813782+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"alyj1imb"}}
+{"time":"2024-10-11T12:48:54.200845133+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"alyj1imb"}}
+{"time":"2024-10-11T12:48:54.200921474+05:30","level":"INFO","msg":"stream: closed","id":"alyj1imb"}

@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:48:58.745585538+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:48:58.745604415+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_124858-sijlerxv/logs/debug-core.log"}
+{"time":"2024-10-11T12:49:00.067668067+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:49:00.075529769+05:30","level":"INFO","msg":"created new stream","id":"sijlerxv"}
+{"time":"2024-10-11T12:49:00.075585969+05:30","level":"INFO","msg":"stream: started","id":"sijlerxv"}
+{"time":"2024-10-11T12:49:00.07560005+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"sijlerxv"}}
+{"time":"2024-10-11T12:49:00.075643029+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"sijlerxv"}}
+{"time":"2024-10-11T12:49:00.075631108+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"sijlerxv"}}
+{"time":"2024-10-11T12:49:00.530548931+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:49:00.53172296+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:49:14.586480223+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:49:14.586675367+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:49:30.338205645+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:49:31.683777997+05:30","level":"INFO","msg":"stream: closing","id":"sijlerxv"}
+{"time":"2024-10-11T12:49:31.683826972+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"sijlerxv"}}
+{"time":"2024-10-11T12:49:31.683871544+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"sijlerxv"}}
+{"time":"2024-10-11T12:49:31.683860697+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"sijlerxv"}}
+{"time":"2024-10-11T12:49:31.684009682+05:30","level":"INFO","msg":"stream: closed","id":"sijlerxv"}

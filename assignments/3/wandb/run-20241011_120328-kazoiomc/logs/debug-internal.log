@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:03:28.058149232+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:03:28.058198808+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_120328-kazoiomc/logs/debug-core.log"}
+{"time":"2024-10-11T12:03:28.081887279+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:03:28.087992481+05:30","level":"INFO","msg":"created new stream","id":"kazoiomc"}
+{"time":"2024-10-11T12:03:28.088040871+05:30","level":"INFO","msg":"stream: started","id":"kazoiomc"}
+{"time":"2024-10-11T12:03:28.08808404+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"kazoiomc"}}
+{"time":"2024-10-11T12:03:28.088151714+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"kazoiomc"}}
+{"time":"2024-10-11T12:03:28.088176057+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"kazoiomc"}}
+{"time":"2024-10-11T12:03:28.479068204+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:03:28.480013592+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:03:34.503784656+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:03:34.503966443+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:03:35.680774155+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:03:37.071486852+05:30","level":"INFO","msg":"stream: closing","id":"kazoiomc"}
+{"time":"2024-10-11T12:03:37.071539765+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"kazoiomc"}}
+{"time":"2024-10-11T12:03:37.071591171+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"kazoiomc"}}
+{"time":"2024-10-11T12:03:37.071731488+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"kazoiomc"}}
+{"time":"2024-10-11T12:03:37.071746087+05:30","level":"INFO","msg":"stream: closed","id":"kazoiomc"}

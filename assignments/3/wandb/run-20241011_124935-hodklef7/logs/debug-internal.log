@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:49:35.907851276+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:49:35.907879495+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_124935-hodklef7/logs/debug-core.log"}
+{"time":"2024-10-11T12:49:36.142859239+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:49:36.150139444+05:30","level":"INFO","msg":"created new stream","id":"hodklef7"}
+{"time":"2024-10-11T12:49:36.150202238+05:30","level":"INFO","msg":"stream: started","id":"hodklef7"}
+{"time":"2024-10-11T12:49:36.150268694+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"hodklef7"}}
+{"time":"2024-10-11T12:49:36.150239362+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"hodklef7"}}
+{"time":"2024-10-11T12:49:36.150243703+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"hodklef7"}}
+{"time":"2024-10-11T12:49:36.600731254+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:49:36.602046131+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:49:49.351591882+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:49:49.351775584+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:49:50.521168136+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:49:51.919917202+05:30","level":"INFO","msg":"stream: closing","id":"hodklef7"}
+{"time":"2024-10-11T12:49:51.919958704+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"hodklef7"}}
+{"time":"2024-10-11T12:49:51.919992778+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"hodklef7"}}
+{"time":"2024-10-11T12:49:51.920098856+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"hodklef7"}}
+{"time":"2024-10-11T12:49:51.92019476+05:30","level":"INFO","msg":"stream: closed","id":"hodklef7"}

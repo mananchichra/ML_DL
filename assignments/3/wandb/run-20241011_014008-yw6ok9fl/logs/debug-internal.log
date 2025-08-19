@@ -1,0 +1,13 @@
+{"time":"2024-10-11T01:40:08.563417315+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T01:40:08.56345685+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_014008-yw6ok9fl/logs/debug-core.log"}
+{"time":"2024-10-11T01:40:08.571276539+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T01:40:08.579769041+05:30","level":"INFO","msg":"created new stream","id":"yw6ok9fl"}
+{"time":"2024-10-11T01:40:08.579814453+05:30","level":"INFO","msg":"stream: started","id":"yw6ok9fl"}
+{"time":"2024-10-11T01:40:08.57985531+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"yw6ok9fl"}}
+{"time":"2024-10-11T01:40:08.579855352+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"yw6ok9fl"}}
+{"time":"2024-10-11T01:40:08.579841446+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"yw6ok9fl"}}
+{"time":"2024-10-11T01:40:09.04051552+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T01:40:09.041444754+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T01:40:42.368440296+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T01:40:42.368697232+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T01:40:43.089058055+05:30","level":"INFO","msg":"stream: closing","id":"yw6ok9fl"}

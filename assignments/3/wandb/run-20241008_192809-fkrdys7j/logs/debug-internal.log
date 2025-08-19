@@ -1,0 +1,18 @@
+{"time":"2024-10-08T19:28:09.517877829+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-08T19:28:09.517895808+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241008_192809-fkrdys7j/logs/debug-core.log"}
+{"time":"2024-10-08T19:28:09.530733174+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-08T19:28:09.533864405+05:30","level":"INFO","msg":"created new stream","id":"fkrdys7j"}
+{"time":"2024-10-08T19:28:09.533889041+05:30","level":"INFO","msg":"stream: started","id":"fkrdys7j"}
+{"time":"2024-10-08T19:28:09.53391538+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"fkrdys7j"}}
+{"time":"2024-10-08T19:28:09.53394105+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"fkrdys7j"}}
+{"time":"2024-10-08T19:28:09.533920104+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"fkrdys7j"}}
+{"time":"2024-10-08T19:28:10.212510088+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-08T19:28:10.212946454+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-08T19:28:12.281343525+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-08T19:28:12.281428931+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-08T19:28:13.549772489+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-08T19:28:14.922634927+05:30","level":"INFO","msg":"stream: closing","id":"fkrdys7j"}
+{"time":"2024-10-08T19:28:14.92264442+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"fkrdys7j"}}
+{"time":"2024-10-08T19:28:14.92266475+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"fkrdys7j"}}
+{"time":"2024-10-08T19:28:14.922672836+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"fkrdys7j"}}
+{"time":"2024-10-08T19:28:14.9227084+05:30","level":"INFO","msg":"stream: closed","id":"fkrdys7j"}

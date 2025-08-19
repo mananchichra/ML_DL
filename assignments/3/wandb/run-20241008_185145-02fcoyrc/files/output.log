@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "q3.py", line 176, in <module>
+    mlp_bce.fit(X_train, y_train, X_val, y_val)
+  File "/home/mananchichra/Downloads/SMAI_ASSIGNMENT/models/MLP/MLPBC.py", line 113, in fit
+    grads_train = self._backward(activations_train, Zs_train, y_train)
+  File "/home/mananchichra/Downloads/SMAI_ASSIGNMENT/models/MLP/MLPBC.py", line 81, in _backward
+    dZ = activations[-1] - y.T  # Gradient of output layer w.r.t. cost function
+ValueError: operands could not be broadcast together with shapes (1,537) (1,115)

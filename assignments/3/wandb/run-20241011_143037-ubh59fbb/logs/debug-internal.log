@@ -1,0 +1,18 @@
+{"time":"2024-10-11T14:30:37.144492663+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T14:30:37.144524882+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_143037-ubh59fbb/logs/debug-core.log"}
+{"time":"2024-10-11T14:30:37.168245273+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T14:30:37.17433716+05:30","level":"INFO","msg":"created new stream","id":"ubh59fbb"}
+{"time":"2024-10-11T14:30:37.174376379+05:30","level":"INFO","msg":"stream: started","id":"ubh59fbb"}
+{"time":"2024-10-11T14:30:37.174454451+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"ubh59fbb"}}
+{"time":"2024-10-11T14:30:37.174403141+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ubh59fbb"}}
+{"time":"2024-10-11T14:30:37.174413174+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"ubh59fbb"}}
+{"time":"2024-10-11T14:30:37.904813492+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T14:30:37.90566865+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T14:31:03.510024889+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T14:31:03.510238631+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T14:31:04.69768844+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T14:31:06.082601376+05:30","level":"INFO","msg":"stream: closing","id":"ubh59fbb"}
+{"time":"2024-10-11T14:31:06.08262502+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"ubh59fbb"}}
+{"time":"2024-10-11T14:31:06.082668531+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ubh59fbb"}}
+{"time":"2024-10-11T14:31:06.082702072+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"ubh59fbb"}}
+{"time":"2024-10-11T14:31:06.082772689+05:30","level":"INFO","msg":"stream: closed","id":"ubh59fbb"}

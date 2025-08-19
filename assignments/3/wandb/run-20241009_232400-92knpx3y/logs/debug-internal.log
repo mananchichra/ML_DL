@@ -1,0 +1,14 @@
+{"time":"2024-10-09T23:24:00.728012321+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-09T23:24:00.728048145+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241009_232400-92knpx3y/logs/debug-core.log"}
+{"time":"2024-10-09T23:24:00.747094254+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-09T23:24:00.753858354+05:30","level":"INFO","msg":"created new stream","id":"92knpx3y"}
+{"time":"2024-10-09T23:24:00.7539163+05:30","level":"INFO","msg":"stream: started","id":"92knpx3y"}
+{"time":"2024-10-09T23:24:00.753929957+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"92knpx3y"}}
+{"time":"2024-10-09T23:24:00.753964521+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"92knpx3y"}}
+{"time":"2024-10-09T23:24:00.753946966+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"92knpx3y"}}
+{"time":"2024-10-09T23:24:01.156705415+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-09T23:24:01.158537044+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-09T23:24:30.406682843+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-09T23:24:30.407062739+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-09T23:24:30.620444516+05:30","level":"INFO","msg":"stream: closing","id":"92knpx3y"}
+{"time":"2024-10-09T23:24:30.706912771+05:30","level":"ERROR","msg":"sender: received Exit record more than once, ignoring"}

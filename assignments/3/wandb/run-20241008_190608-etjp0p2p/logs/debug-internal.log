@@ -1,0 +1,18 @@
+{"time":"2024-10-08T19:06:08.534855267+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-08T19:06:08.534863772+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241008_190608-etjp0p2p/logs/debug-core.log"}
+{"time":"2024-10-08T19:06:08.534946993+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-08T19:06:08.536405883+05:30","level":"INFO","msg":"created new stream","id":"etjp0p2p"}
+{"time":"2024-10-08T19:06:08.536417726+05:30","level":"INFO","msg":"stream: started","id":"etjp0p2p"}
+{"time":"2024-10-08T19:06:08.536438396+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"etjp0p2p"}}
+{"time":"2024-10-08T19:06:08.536458198+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"etjp0p2p"}}
+{"time":"2024-10-08T19:06:08.536465838+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"etjp0p2p"}}
+{"time":"2024-10-08T19:06:08.967192677+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-08T19:06:08.967546586+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-08T19:06:09.808529673+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-08T19:06:09.808602187+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-08T19:06:11.00877008+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-08T19:06:12.546580075+05:30","level":"INFO","msg":"stream: closing","id":"etjp0p2p"}
+{"time":"2024-10-08T19:06:12.54659653+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"etjp0p2p"}}
+{"time":"2024-10-08T19:06:12.546615827+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"etjp0p2p"}}
+{"time":"2024-10-08T19:06:12.54667754+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"etjp0p2p"}}
+{"time":"2024-10-08T19:06:12.546686723+05:30","level":"INFO","msg":"stream: closed","id":"etjp0p2p"}

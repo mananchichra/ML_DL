@@ -1,0 +1,18 @@
+{"time":"2024-10-06T02:24:37.842978137+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-06T02:24:37.843005912+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241006_022437-rizdfh2d/logs/debug-core.log"}
+{"time":"2024-10-06T02:24:37.855895629+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-06T02:24:37.864025186+05:30","level":"INFO","msg":"created new stream","id":"rizdfh2d"}
+{"time":"2024-10-06T02:24:37.864080516+05:30","level":"INFO","msg":"stream: started","id":"rizdfh2d"}
+{"time":"2024-10-06T02:24:37.864099184+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"rizdfh2d"}}
+{"time":"2024-10-06T02:24:37.864136012+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"rizdfh2d"}}
+{"time":"2024-10-06T02:24:37.864137239+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"rizdfh2d"}}
+{"time":"2024-10-06T02:24:38.253954198+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-06T02:24:38.254786203+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-06T02:24:38.489034091+05:30","level":"INFO","msg":"stream: closing","id":"rizdfh2d"}
+{"time":"2024-10-06T02:24:38.489095852+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-06T02:24:38.489423685+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-06T02:24:41.059368387+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-06T02:24:41.424207597+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"rizdfh2d"}}
+{"time":"2024-10-06T02:24:41.424289342+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"rizdfh2d"}}
+{"time":"2024-10-06T02:24:41.424286254+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"rizdfh2d"}}
+{"time":"2024-10-06T02:24:41.424430947+05:30","level":"INFO","msg":"stream: closed","id":"rizdfh2d"}

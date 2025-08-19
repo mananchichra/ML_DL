@@ -1,0 +1,18 @@
+{"time":"2024-10-11T02:20:06.706275178+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T02:20:06.706309879+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_022006-ax59tkgs/logs/debug-core.log"}
+{"time":"2024-10-11T02:20:06.722779939+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T02:20:06.730875998+05:30","level":"INFO","msg":"created new stream","id":"ax59tkgs"}
+{"time":"2024-10-11T02:20:06.730923046+05:30","level":"INFO","msg":"stream: started","id":"ax59tkgs"}
+{"time":"2024-10-11T02:20:06.730968221+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"ax59tkgs"}}
+{"time":"2024-10-11T02:20:06.730953809+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ax59tkgs"}}
+{"time":"2024-10-11T02:20:06.731020266+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"ax59tkgs"}}
+{"time":"2024-10-11T02:20:07.551027259+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T02:20:07.552043503+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T02:20:18.415568606+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T02:20:18.415731556+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T02:20:20.389019427+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T02:20:21.770245048+05:30","level":"INFO","msg":"stream: closing","id":"ax59tkgs"}
+{"time":"2024-10-11T02:20:21.77028345+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"ax59tkgs"}}
+{"time":"2024-10-11T02:20:21.770312679+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ax59tkgs"}}
+{"time":"2024-10-11T02:20:21.770345877+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"ax59tkgs"}}
+{"time":"2024-10-11T02:20:21.770425759+05:30","level":"INFO","msg":"stream: closed","id":"ax59tkgs"}

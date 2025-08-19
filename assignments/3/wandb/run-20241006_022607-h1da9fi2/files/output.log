@@ -1,0 +1,23 @@
+Traceback (most recent call last):
+  File "q3.py", line 53, in <module>
+    mlp.fit(X_train, y_train, epochs=500, batch_size=32)
+  File "/home/mananchichra/Downloads/SMAI_ASSIGNMENT/models/MLP/MLPReg.py", line 102, in fit
+    self.backward(X_batch, y_batch)
+  File "/home/mananchichra/Downloads/SMAI_ASSIGNMENT/models/MLP/MLPReg.py", line 77, in backward
+    db = np.sum(dz, axis=0, keepdims=True) / m
+  File "<__array_function__ internals>", line 5, in sum
+  File "/home/mananchichra/anaconda3/lib/python3.8/site-packages/numpy/core/fromnumeric.py", line 2241, in sum
+    return _wrapreduction(a, np.add, 'sum', axis, dtype, out, keepdims=keepdims,
+  File "/home/mananchichra/anaconda3/lib/python3.8/site-packages/numpy/core/fromnumeric.py", line 85, in _wrapreduction
+    return reduction(axis=axis, out=out, **passkwargs)
+  File "/home/mananchichra/anaconda3/lib/python3.8/site-packages/pandas/core/generic.py", line 11409, in stat_func
+    nv.validate_sum(tuple(), kwargs)
+  File "/home/mananchichra/anaconda3/lib/python3.8/site-packages/pandas/compat/numpy/function.py", line 70, in __call__
+    validate_args_and_kwargs(
+  File "/home/mananchichra/anaconda3/lib/python3.8/site-packages/pandas/util/_validators.py", line 205, in validate_args_and_kwargs
+    validate_kwargs(fname, kwargs, compat_args)
+  File "/home/mananchichra/anaconda3/lib/python3.8/site-packages/pandas/util/_validators.py", line 149, in validate_kwargs
+    _check_for_default_values(fname, kwds, compat_args)
+  File "/home/mananchichra/anaconda3/lib/python3.8/site-packages/pandas/util/_validators.py", line 65, in _check_for_default_values
+    raise ValueError(
+ValueError: the 'keepdims' parameter is not supported in the pandas implementation of sum()

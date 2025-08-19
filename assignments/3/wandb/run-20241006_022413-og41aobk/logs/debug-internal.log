@@ -1,0 +1,18 @@
+{"time":"2024-10-06T02:24:13.458746018+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-06T02:24:13.458769229+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241006_022413-og41aobk/logs/debug-core.log"}
+{"time":"2024-10-06T02:24:13.467205593+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-06T02:24:13.474519866+05:30","level":"INFO","msg":"created new stream","id":"og41aobk"}
+{"time":"2024-10-06T02:24:13.474602037+05:30","level":"INFO","msg":"stream: started","id":"og41aobk"}
+{"time":"2024-10-06T02:24:13.474645023+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"og41aobk"}}
+{"time":"2024-10-06T02:24:13.474718812+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"og41aobk"}}
+{"time":"2024-10-06T02:24:13.474675222+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"og41aobk"}}
+{"time":"2024-10-06T02:24:13.931520246+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-06T02:24:13.932344809+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-06T02:24:14.228999935+05:30","level":"INFO","msg":"stream: closing","id":"og41aobk"}
+{"time":"2024-10-06T02:24:14.229068188+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-06T02:24:14.229438827+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-06T02:24:16.733905105+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-06T02:24:17.257026499+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"og41aobk"}}
+{"time":"2024-10-06T02:24:17.257137801+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"og41aobk"}}
+{"time":"2024-10-06T02:24:17.257159551+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"og41aobk"}}
+{"time":"2024-10-06T02:24:17.257268606+05:30","level":"INFO","msg":"stream: closed","id":"og41aobk"}

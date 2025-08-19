@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:44:22.778617376+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:44:22.778660535+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_124422-zflhk43d/logs/debug-core.log"}
+{"time":"2024-10-11T12:44:24.780827867+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:44:24.790189879+05:30","level":"INFO","msg":"created new stream","id":"zflhk43d"}
+{"time":"2024-10-11T12:44:24.790264367+05:30","level":"INFO","msg":"stream: started","id":"zflhk43d"}
+{"time":"2024-10-11T12:44:24.790331254+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"zflhk43d"}}
+{"time":"2024-10-11T12:44:24.790322178+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"zflhk43d"}}
+{"time":"2024-10-11T12:44:24.790377387+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"zflhk43d"}}
+{"time":"2024-10-11T12:44:25.192610334+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:44:25.19369094+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:44:37.338133016+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:44:37.338297745+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:44:38.495515423+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:44:39.922661268+05:30","level":"INFO","msg":"stream: closing","id":"zflhk43d"}
+{"time":"2024-10-11T12:44:39.922696822+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"zflhk43d"}}
+{"time":"2024-10-11T12:44:39.922747374+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"zflhk43d"}}
+{"time":"2024-10-11T12:44:39.922768876+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"zflhk43d"}}
+{"time":"2024-10-11T12:44:39.9229322+05:30","level":"INFO","msg":"stream: closed","id":"zflhk43d"}

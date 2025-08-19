@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:33:52.687897274+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:33:52.687941576+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_123352-njsuf429/logs/debug-core.log"}
+{"time":"2024-10-11T12:33:52.697373954+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:33:52.71111637+05:30","level":"INFO","msg":"created new stream","id":"njsuf429"}
+{"time":"2024-10-11T12:33:52.711184215+05:30","level":"INFO","msg":"stream: started","id":"njsuf429"}
+{"time":"2024-10-11T12:33:52.711243791+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"njsuf429"}}
+{"time":"2024-10-11T12:33:52.711223131+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"njsuf429"}}
+{"time":"2024-10-11T12:33:52.71133906+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"njsuf429"}}
+{"time":"2024-10-11T12:33:53.184719797+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:33:53.188109237+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:34:03.728909968+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:34:03.729097668+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:34:04.898198377+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:34:06.267270191+05:30","level":"INFO","msg":"stream: closing","id":"njsuf429"}
+{"time":"2024-10-11T12:34:06.267318615+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"njsuf429"}}
+{"time":"2024-10-11T12:34:06.267373658+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"njsuf429"}}
+{"time":"2024-10-11T12:34:06.267374757+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"njsuf429"}}
+{"time":"2024-10-11T12:34:06.267641203+05:30","level":"INFO","msg":"stream: closed","id":"njsuf429"}

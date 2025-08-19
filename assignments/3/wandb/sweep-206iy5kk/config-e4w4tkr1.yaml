@@ -1,0 +1,14 @@
+wandb_version: 1
+
+activation:
+  value: tanh
+epochs:
+  value: 1000
+hidden_layer_1:
+  value: 128
+hidden_layer_2:
+  value: 64
+learning_rate:
+  value: 0.001
+optimizer:
+  value: sgd

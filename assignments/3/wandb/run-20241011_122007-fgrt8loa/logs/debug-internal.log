@@ -1,0 +1,18 @@
+{"time":"2024-10-11T12:20:07.913730094+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-11T12:20:07.913747739+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241011_122007-fgrt8loa/logs/debug-core.log"}
+{"time":"2024-10-11T12:20:08.055693028+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-11T12:20:08.064394716+05:30","level":"INFO","msg":"created new stream","id":"fgrt8loa"}
+{"time":"2024-10-11T12:20:08.064466472+05:30","level":"INFO","msg":"stream: started","id":"fgrt8loa"}
+{"time":"2024-10-11T12:20:08.064509837+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"fgrt8loa"}}
+{"time":"2024-10-11T12:20:08.064502909+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"fgrt8loa"}}
+{"time":"2024-10-11T12:20:08.064519551+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"fgrt8loa"}}
+{"time":"2024-10-11T12:20:08.476969166+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T12:20:08.477846417+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-11T12:20:13.010130888+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-11T12:20:13.010299244+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-11T12:20:15.02779439+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-11T12:20:16.39060529+05:30","level":"INFO","msg":"stream: closing","id":"fgrt8loa"}
+{"time":"2024-10-11T12:20:16.390641902+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"fgrt8loa"}}
+{"time":"2024-10-11T12:20:16.390695451+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"fgrt8loa"}}
+{"time":"2024-10-11T12:20:16.390718937+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"fgrt8loa"}}
+{"time":"2024-10-11T12:20:16.390799781+05:30","level":"INFO","msg":"stream: closed","id":"fgrt8loa"}

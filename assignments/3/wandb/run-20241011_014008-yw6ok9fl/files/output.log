@@ -1,0 +1,388 @@
+/home/mananchichra/anaconda3/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1221: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Hamming Loss: 0.0025188916876574307
+[34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.

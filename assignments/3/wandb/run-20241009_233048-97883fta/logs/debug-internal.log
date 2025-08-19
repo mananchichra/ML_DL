@@ -1,0 +1,18 @@
+{"time":"2024-10-09T23:30:48.225025026+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-09T23:30:48.225041841+05:30","level":"INFO","msg":"created symlink","path":"/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3/wandb/run-20241009_233048-97883fta/logs/debug-core.log"}
+{"time":"2024-10-09T23:30:48.23829699+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-09T23:30:48.245234942+05:30","level":"INFO","msg":"created new stream","id":"97883fta"}
+{"time":"2024-10-09T23:30:48.245269807+05:30","level":"INFO","msg":"stream: started","id":"97883fta"}
+{"time":"2024-10-09T23:30:48.245285015+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"97883fta"}}
+{"time":"2024-10-09T23:30:48.245298857+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"97883fta"}}
+{"time":"2024-10-09T23:30:48.245338074+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"97883fta"}}
+{"time":"2024-10-09T23:30:48.678107101+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-09T23:30:48.678928861+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-09T23:31:04.248303069+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-09T23:31:04.248536017+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-09T23:31:05.443293638+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-09T23:31:06.814471532+05:30","level":"INFO","msg":"stream: closing","id":"97883fta"}
+{"time":"2024-10-09T23:31:06.814495157+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"97883fta"}}
+{"time":"2024-10-09T23:31:06.814537831+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"97883fta"}}
+{"time":"2024-10-09T23:31:06.814594179+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"97883fta"}}
+{"time":"2024-10-09T23:31:06.814649204+05:30","level":"INFO","msg":"stream: closed","id":"97883fta"}

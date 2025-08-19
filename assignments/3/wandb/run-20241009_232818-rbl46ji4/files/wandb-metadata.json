@@ -1,0 +1,32 @@
+{
+  "os":  "Linux-6.8.0-45-generic-x86_64-with-glibc2.10",
+  "python":  "3.8.5",
+  "startedAt":  "2024-10-09T17:58:18.142319Z",
+  "program":  "q2.py",
+  "codePath":  "assignments/3/q2.py",
+  "git":  {
+    "remote":  "https://github.com/smai-monsoon-24/smai-m24-assignments-mananchichra.git",
+    "commit":  "58bc95a0fbc14199807b86e94b2b5d0b15f4b3eb"
+  },
+  "email":  "manan.chichra@students.iiit.ac.in",
+  "root":  "/home/mananchichra/Downloads/SMAI_ASSIGNMENT/assignments/3",
+  "host":  "mananchichra-Inspiron-14-5420",
+  "username":  "mananchichra",
+  "executable":  "/home/mananchichra/anaconda3/bin/python3",
+  "codePathLocal":  "q2.py",
+  "cpu_count":  12,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "152475262976",
+      "used":  "137205424128"
+    }
+  },
+  "memory":  {
+    "total":  "16438202368"
+  },
+  "cpu":  {
+    "count":  12,
+    "countLogical":  16
+  }
+}
